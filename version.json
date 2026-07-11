@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.32/app.apk",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.33/app.apk",
   "mandatory": false,
-  "notes": "과거 데이터에서 가맹점 분류를 자동 학습(다니던 가게는 즉시 정확) · 질문에서 세분류 인지"
+  "notes": "짠소리 금액 오류 원천 차단(숫자는 코드가 표시) · AI 활동 로그 신설(AI가 한 일을 확인) · 편집 취소 시에도 변경 확인"
 }
