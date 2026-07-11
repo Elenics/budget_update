@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.16/app.apk",
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.17/app.apk",
   "mandatory": false,
-  "notes": "가계부 코어 온디바이스 + 자동 업데이트 정식판"
+  "notes": "상단 상태바·하단 네비바와 버튼 겹침 수정 (안전영역 적용)"
 }
