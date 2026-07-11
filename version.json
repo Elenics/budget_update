@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.35/app.apk",
+  "versionCode": 36,
+  "versionName": "0.36",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.36/app.apk",
   "mandatory": false,
-  "notes": "짠소리 PAW 완성 — AI가 근거 수치를 스스로 조회(코드가 계산)해 정확한 금액으로 잔소리"
+  "notes": "질문 능력 대확장 — 주말/평일/요일별, 이번주/지난주, 월평균/건당평균, 지출 비중, 최고 지출일, 작년 동월 비교"
 }
