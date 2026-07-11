@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "0.40",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.40/app.apk",
+  "versionCode": 41,
+  "versionName": "0.41",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.41/app.apk",
   "mandatory": false,
-  "notes": "결제 알림 감지 강화(카카오뱅크류 커스텀 알림 필드 전부 읽음) + 감지 즉시 앱 푸시로 알려줌 + 미인식 알림 진단 + 월 스와이프 시 항목 오클릭 수정"
+  "notes": "질문 정확도(넷플→넷플릭스 축약 인식·잘못된 범위 답변 수정) + 질문란 키보드 가림 해소 + 감지 알림 탭시 검수로 이동 + 거래 아님(다시 안 물음) + 스와이프 오클릭 재수정 + 미인식 진단 노이즈 정리"
 }
