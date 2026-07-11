@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.27/app.apk",
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.28/app.apk",
   "mandatory": false,
-  "notes": "설정 탭 전면 개편 — 카테고리를 접기/펼치기 트리로 직접 관리(이름변경·추가·삭제·3단계) · 구분(개인/회사/부부)도 직접 추가/삭제 · 리포트 물어보기 버튼"
+  "notes": "새 앱 아이콘 · 저장 안 한 변경이 있으면 나가기 전에 물어봄 · 액션 후 화면이 맨 위로 튀던 문제 수정"
 }
