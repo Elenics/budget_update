@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.23",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.23/app.apk",
+  "versionCode": 24,
+  "versionName": "0.24",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.24/app.apk",
   "mandatory": false,
-  "notes": "입력 즉시 반응(단순 입력은 AI 대기 없음) · 점심/커피/택시 등 상식 분류는 즉시 정확 · 개인/회사/부부 색상 구분"
+  "notes": "실시간 알림 캡처(문자·카톡 알림톡·카드앱 푸시 — 설정에서 알림 접근 1회 허용) · 질문 집계 정확도 개선 · 과거 데이터 가져오기 통로"
 }
