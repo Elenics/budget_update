@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.25/app.apk",
+  "versionCode": 26,
+  "versionName": "0.26",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.26/app.apk",
   "mandatory": false,
-  "notes": "실시간 결제 알림은 AI가 문맥까지 이해해 분류(소량은 LLM 1차) · 편한가계부 과거 데이터 가져오기 준비 완료"
+  "notes": "홈 대시보드(구분별·수입 표시) · 홈/내역 스와이프로 월 이동 · 리포트 색상 그래픽 개편 · 내역 날짜 헤더 강조 · 짠소리 업그레이드(관찰→지적→행동 제안) · 카테고리 직접 관리(3단계 지원) · 테스트 거래 정리 버튼"
 }
