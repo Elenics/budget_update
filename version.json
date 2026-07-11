@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.26/app.apk",
+  "versionCode": 27,
+  "versionName": "0.27",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.27/app.apk",
   "mandatory": false,
-  "notes": "홈 대시보드(구분별·수입 표시) · 홈/내역 스와이프로 월 이동 · 리포트 색상 그래픽 개편 · 내역 날짜 헤더 강조 · 짠소리 업그레이드(관찰→지적→행동 제안) · 카테고리 직접 관리(3단계 지원) · 테스트 거래 정리 버튼"
+  "notes": "설정 탭 전면 개편 — 카테고리를 접기/펼치기 트리로 직접 관리(이름변경·추가·삭제·3단계) · 구분(개인/회사/부부)도 직접 추가/삭제 · 리포트 물어보기 버튼"
 }
