@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.15/app.apk",
+  "versionCode": 16,
+  "versionName": "0.16",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.16/app.apk",
   "mandatory": false,
-  "notes": "자동 업데이트 검증 릴리스"
+  "notes": "가계부 코어 온디바이스 + 자동 업데이트 정식판"
 }
