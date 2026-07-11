@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.29/app.apk",
+  "versionCode": 30,
+  "versionName": "0.30",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.30/app.apk",
   "mandatory": false,
-  "notes": "앱 아이콘 변경 (민트 말풍선 ₩)"
+  "notes": "앱 아이콘 흰 여백 제거 (사각 풀블리드)"
 }
