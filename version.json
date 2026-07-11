@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "0.19",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.19/app.apk",
+  "versionCode": 20,
+  "versionName": "0.20",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.20/app.apk",
   "mandatory": false,
-  "notes": "짠소리·질의 코멘트가 누를 때마다 다른 말을 합니다 (AI 창작 모드 분리)"
+  "notes": "AI 모델 교체: 용량 절반(1.5GB→843MB), 더 빠른 로드·응답. 업데이트 후 설정에서 새 모델 다운로드 필요(이전 모델은 자동 정리)"
 }
