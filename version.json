@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.20/app.apk",
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.21/app.apk",
   "mandatory": false,
-  "notes": "AI 모델 교체: 용량 절반(1.5GB→843MB), 더 빠른 로드·응답. 업데이트 후 설정에서 새 모델 다운로드 필요(이전 모델은 자동 정리)"
+  "notes": "뒤로가기 개선(모달 닫기→홈 복귀) · 인증코드·광고문자 오등재 차단 · 상세에서 원본 문자 복사"
 }
