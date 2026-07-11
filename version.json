@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.44",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.44/app.apk",
+  "versionCode": 45,
+  "versionName": "0.45",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.45/app.apk",
   "mandatory": false,
-  "notes": "구분 색상을 이름에 고정(순서 바꿔도 유지) / 미인식 알림 잡음 제거(금융 힌트만 기록·표시) / 모달 내부 스크롤 복구 / 짠소리 응답 속도 개선 / 수정 저장 안내 문구 명확화"
+  "notes": "AI 답변 말투 다양화 — 말투 10종·예시 6형 회전(같은 질문에도 다른 문장)"
 }
