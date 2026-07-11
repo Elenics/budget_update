@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.38/app.apk",
+  "versionCode": 39,
+  "versionName": "0.39",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.39/app.apk",
   "mandatory": false,
-  "notes": "질문에 대화체로 대답 — 매번 다른 문장, 숫자는 정확(슬롯 검증)"
+  "notes": "질문·분류 이해력 대확장 — 브랜드 500+ 사전(프랜차이즈·쇼핑몰·구독), 질문 별칭 170+, 기간 표현(분기·상반기·최근N일·월초말)"
 }
