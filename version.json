@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.18",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.18/app.apk",
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.19/app.apk",
   "mandatory": false,
-  "notes": "SMS 가져오기 대폭 고속화 · 가져온 결과를 알기 쉽게 안내 · 거래를 탭하면 원본 문자 확인+수정 · 카테고리 32종으로 확장"
+  "notes": "짠소리·질의 코멘트가 누를 때마다 다른 말을 합니다 (AI 창작 모드 분리)"
 }
