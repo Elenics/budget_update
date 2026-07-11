@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.36/app.apk",
+  "versionCode": 37,
+  "versionName": "0.37",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.37/app.apk",
   "mandatory": false,
-  "notes": "질문 능력 대확장 — 주말/평일/요일별, 이번주/지난주, 월평균/건당평균, 지출 비중, 최고 지출일, 작년 동월 비교"
+  "notes": "질문 대부분이 AI 대기 없이 즉답 — 오늘/어제/올해, 한글금액, 카테고리·단골 랭킹, 월말 페이스 예상, 수입-지출 순액, 별칭 사전(커피=커피음료 등)"
 }
