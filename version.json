@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.37/app.apk",
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.38/app.apk",
   "mandatory": false,
-  "notes": "질문 대부분이 AI 대기 없이 즉답 — 오늘/어제/올해, 한글금액, 카테고리·단골 랭킹, 월말 페이스 예상, 수입-지출 순액, 별칭 사전(커피=커피음료 등)"
+  "notes": "질문에 대화체로 대답 — 매번 다른 문장, 숫자는 정확(슬롯 검증)"
 }
