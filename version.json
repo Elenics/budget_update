@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.33/app.apk",
+  "versionCode": 34,
+  "versionName": "0.34",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.34/app.apk",
   "mandatory": false,
-  "notes": "짠소리 금액 오류 원천 차단(숫자는 코드가 표시) · AI 활동 로그 신설(AI가 한 일을 확인) · 편집 취소 시에도 변경 확인"
+  "notes": "짠소리가 숫자를 다시 말합니다 — 단 한 글자도 틀리지 않게 (PAW 슬롯 치환)"
 }
