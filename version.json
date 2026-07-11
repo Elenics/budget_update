@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.22",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.22/app.apk",
+  "versionCode": 23,
+  "versionName": "0.23",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.23/app.apk",
   "mandatory": false,
-  "notes": "검수 카드에 원본 문자·일시·진행률 표시 · 카테고리 2단 선택(대분류→소분류) + 분류 개편 · 질문 답변에 항목 목록 표시"
+  "notes": "입력 즉시 반응(단순 입력은 AI 대기 없음) · 점심/커피/택시 등 상식 분류는 즉시 정확 · 개인/회사/부부 색상 구분"
 }
