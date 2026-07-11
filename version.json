@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.30/app.apk",
+  "versionCode": 31,
+  "versionName": "0.31",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.31/app.apk",
   "mandatory": false,
-  "notes": "앱 아이콘 흰 여백 제거 (사각 풀블리드)"
+  "notes": "소분류 편집 시 화면이 맨 위로 튀던 문제 수정 · 소분류마다 ＋세분류 버튼으로 3단계 추가"
 }
