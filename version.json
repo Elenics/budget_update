@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.39",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.39/app.apk",
+  "versionCode": 40,
+  "versionName": "0.40",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.40/app.apk",
   "mandatory": false,
-  "notes": "질문·분류 이해력 대확장 — 브랜드 500+ 사전(프랜차이즈·쇼핑몰·구독), 질문 별칭 170+, 기간 표현(분기·상반기·최근N일·월초말)"
+  "notes": "결제 알림 감지 강화(카카오뱅크류 커스텀 알림 필드 전부 읽음) + 감지 즉시 앱 푸시로 알려줌 + 미인식 알림 진단 + 월 스와이프 시 항목 오클릭 수정"
 }
