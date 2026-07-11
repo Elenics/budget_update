@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.21/app.apk",
+  "versionCode": 22,
+  "versionName": "0.22",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.22/app.apk",
   "mandatory": false,
-  "notes": "뒤로가기 개선(모달 닫기→홈 복귀) · 인증코드·광고문자 오등재 차단 · 상세에서 원본 문자 복사"
+  "notes": "검수 카드에 원본 문자·일시·진행률 표시 · 카테고리 2단 선택(대분류→소분류) + 분류 개편 · 질문 답변에 항목 목록 표시"
 }
