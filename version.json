@@ -1,1 +1,7 @@
-{"versionCode":0}
+{
+  "versionCode": 14,
+  "versionName": "0.14",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.14/app.apk",
+  "mandatory": false,
+  "notes": "자동 업데이트 도입 — 이 버전부터 새 버전이 나오면 앱 상단에 배너가 뜹니다"
+}
