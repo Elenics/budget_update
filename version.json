@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.41/app.apk",
+  "versionCode": 42,
+  "versionName": "0.42",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.42/app.apk",
   "mandatory": false,
-  "notes": "질문 정확도(넷플→넷플릭스 축약 인식·잘못된 범위 답변 수정) + 질문란 키보드 가림 해소 + 감지 알림 탭시 검수로 이동 + 거래 아님(다시 안 물음) + 스와이프 오클릭 재수정 + 미인식 진단 노이즈 정리"
+  "notes": "스와이프 방식 전면 교체(오클릭 근본 수정)+리포트도 월 스와이프 / 짠소리 톤 강화(대시보드 읊기 금지) / AI 답변 기간 날조 차단 / 홈 장부별 묶어보기 / 계정(자산) 신설 — 현금·카드·용돈 등 주머니 관리"
 }
