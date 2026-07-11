@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.28/app.apk",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.29/app.apk",
   "mandatory": false,
-  "notes": "새 앱 아이콘 · 저장 안 한 변경이 있으면 나가기 전에 물어봄 · 액션 후 화면이 맨 위로 튀던 문제 수정"
+  "notes": "앱 아이콘 변경 (민트 말풍선 ₩)"
 }
