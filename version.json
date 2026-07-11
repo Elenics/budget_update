@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.24/app.apk",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.25/app.apk",
   "mandatory": false,
-  "notes": "실시간 알림 캡처(문자·카톡 알림톡·카드앱 푸시 — 설정에서 알림 접근 1회 허용) · 질문 집계 정확도 개선 · 과거 데이터 가져오기 통로"
+  "notes": "실시간 결제 알림은 AI가 문맥까지 이해해 분류(소량은 LLM 1차) · 편한가계부 과거 데이터 가져오기 준비 완료"
 }
