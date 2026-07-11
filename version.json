@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.42/app.apk",
+  "versionCode": 43,
+  "versionName": "0.43",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.43/app.apk",
   "mandatory": false,
-  "notes": "스와이프 방식 전면 교체(오클릭 근본 수정)+리포트도 월 스와이프 / 짠소리 톤 강화(대시보드 읊기 금지) / AI 답변 기간 날조 차단 / 홈 장부별 묶어보기 / 계정(자산) 신설 — 현금·카드·용돈 등 주머니 관리"
+  "notes": "월 스와이프 네이티브 제스처로 전면 교체(동작+오클릭 완전 해결) / 계정별 소비·수입 그래프 / 수입도 카테고리 선택(월급·부수입 등) / 모달 우선순위(배경 클릭 차단) / 계정 칩 가독성 / 구분 순서 변경(◀▶, 홈 반영)"
 }
