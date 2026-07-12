@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.51",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.51/app.apk",
+  "versionCode": 52,
+  "versionName": "0.52",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.52/app.apk",
   "mandatory": false,
-  "notes": "이체 기능: 통장 간 이동은 지출·수입에 안 잡혀요(출금+입금 짝 자동 감지). 검수 카드에 지출/수입/이체 전환 + 나중에·삭제 버튼, 설정에 확인 대기 목록 관리 추가."
+  "notes": "짠소리 정확도 수리: 카테고리와 금액이 뒤섞이거나, 없는 '평균'을 지어내거나, '지출을 늘려라' 같은 반대말이 나오던 것을 차단·자동 교정. (AI 재학습도 병행 중)"
 }
