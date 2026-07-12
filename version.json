@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "0.53",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.53/app.apk",
+  "versionCode": 54,
+  "versionName": "0.54",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.54/app.apk",
   "mandatory": false,
-  "notes": "AI 질문 답변 정확도 강화: 지출 질문이 수입으로 둔갑하는 것 차단, 조회 안 한 카테고리·평균 주장 차단, 필터 없는 조회는 '전체 지출' 명시(오해 방지)."
+  "notes": "AI 활동 화면 개편: 설정의 AI 활동 카드와 문제 있던 모달 삭제 — 이제 상단 헤더의 🧠 AI 배지(오늘 활동 건수)를 탭하면 전체화면으로 열려요. 배경이 눌리던 문제 해결."
 }
