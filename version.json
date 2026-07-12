@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "0.55",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.55/app.apk",
+  "versionCode": 56,
+  "versionName": "0.56",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.56/app.apk",
   "mandatory": false,
-  "notes": "AI가 대화를 알아듣습니다: 가계부 질문이 아닌 일상 말(머리 잘라야 하는데, 점심 뭐 먹지)에는 조회 결과 대신 자연스러운 대화로 응답. 지출·수입 질문은 기존대로 정확한 조회."
+  "notes": "크게 부드러워진 새 디자인 + 편한가계부 벤치마크 5종: ①새 은행·카드사 자동 감지→계정 등록 제안·자동 연결 ②검수·상세에서 금액·일시 수정 ③계정 그룹(현금/은행/카드/저축투자/대출) ④음성 입력 🎤 ⑤할부 자동 인식→매달 분할 기록(무이자 기준)."
 }
