@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "0.56",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.56/app.apk",
+  "versionCode": 57,
+  "versionName": "0.57",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.57/app.apk",
   "mandatory": false,
-  "notes": "크게 부드러워진 새 디자인 + 편한가계부 벤치마크 5종: ①새 은행·카드사 자동 감지→계정 등록 제안·자동 연결 ②검수·상세에서 금액·일시 수정 ③계정 그룹(현금/은행/카드/저축투자/대출) ④음성 입력 🎤 ⑤할부 자동 인식→매달 분할 기록(무이자 기준)."
+  "notes": "정리 기능 강화: 카테고리·구분(장부)·계정을 삭제할 때 연결된 거래를 다른 곳으로 옮길지 선택할 수 있어요(건수 표시). 카테고리 이름을 바꾸면 기존 기록도 함께 바뀌어요. 계정 그룹 배지도 더 잘 보이게."
 }
