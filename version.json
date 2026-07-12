@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.46",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.46/app.apk",
+  "versionCode": 47,
+  "versionName": "0.47",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.47/app.apk",
   "mandatory": false,
-  "notes": "은행 출금 문자 가맹점 추출 수정(쿠팡이츠 등 계좌번호 오인식 해결) / 같은 결제 중복 인식 차단(네이티브+큐 3중 dedup) / 알림 진동+헤드업 팝업 / 자동등재 vs 확인후등재 옵션 / 삭제 확인 모달 / 구분 색상 완전 고정"
+  "notes": "결제 문자 2건이 한 알림으로 묶여 가맹점이 뒤섞이던 문제 수정(줄별 분리 캡처+본문 분할) / 금융 아닌 알림(코인 알람 등) 오감지 차단(금융 동사 필수)"
 }
