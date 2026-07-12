@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.45/app.apk",
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.46/app.apk",
   "mandatory": false,
-  "notes": "AI 답변 말투 다양화 — 말투 10종·예시 6형 회전(같은 질문에도 다른 문장)"
+  "notes": "은행 출금 문자 가맹점 추출 수정(쿠팡이츠 등 계좌번호 오인식 해결) / 같은 결제 중복 인식 차단(네이티브+큐 3중 dedup) / 알림 진동+헤드업 팝업 / 자동등재 vs 확인후등재 옵션 / 삭제 확인 모달 / 구분 색상 완전 고정"
 }
