@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "0.48",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.48/app.apk",
+  "versionCode": 49,
+  "versionName": "0.49",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.49/app.apk",
   "mandatory": false,
-  "notes": "거래아님 패턴 학습(같은 유형 2회 기각 시 자동 차단) / 💡매니저 카드 — 소비 패턴 인사이트(안 하던 지출·급증·첫 방문)"
+  "notes": "거래 아님 목록을 설정에서 확인·해제 / AI 활동 카드 요약형으로 압축(전체는 모달) / 홈 알림 메시지 1분 후 자연스럽게 사라짐"
 }
