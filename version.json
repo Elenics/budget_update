@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.50",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.50/app.apk",
+  "versionCode": 51,
+  "versionName": "0.51",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.51/app.apk",
   "mandatory": false,
-  "notes": "AI 두뇌 교체: 가계부 맞춤학습판(QLoRA) 적용 — 질문 이해력·답변 규칙·문자 인식 대폭 향상. 설정에서 새 모델(1.0GB)을 다운로드하세요."
+  "notes": "이체 기능: 통장 간 이동은 지출·수입에 안 잡혀요(출금+입금 짝 자동 감지). 검수 카드에 지출/수입/이체 전환 + 나중에·삭제 버튼, 설정에 확인 대기 목록 관리 추가."
 }
