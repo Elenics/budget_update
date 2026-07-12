@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "0.49",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.49/app.apk",
+  "versionCode": 50,
+  "versionName": "0.50",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.50/app.apk",
   "mandatory": false,
-  "notes": "거래 아님 목록을 설정에서 확인·해제 / AI 활동 카드 요약형으로 압축(전체는 모달) / 홈 알림 메시지 1분 후 자연스럽게 사라짐"
+  "notes": "AI 두뇌 교체: 가계부 맞춤학습판(QLoRA) 적용 — 질문 이해력·답변 규칙·문자 인식 대폭 향상. 설정에서 새 모델(1.0GB)을 다운로드하세요."
 }
