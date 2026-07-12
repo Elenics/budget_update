@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "0.47",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.47/app.apk",
+  "versionCode": 48,
+  "versionName": "0.48",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.48/app.apk",
   "mandatory": false,
-  "notes": "결제 문자 2건이 한 알림으로 묶여 가맹점이 뒤섞이던 문제 수정(줄별 분리 캡처+본문 분할) / 금융 아닌 알림(코인 알람 등) 오감지 차단(금융 동사 필수)"
+  "notes": "거래아님 패턴 학습(같은 유형 2회 기각 시 자동 차단) / 💡매니저 카드 — 소비 패턴 인사이트(안 하던 지출·급증·첫 방문)"
 }
