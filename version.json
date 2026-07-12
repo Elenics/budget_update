@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.57",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.57/app.apk",
+  "versionCode": 58,
+  "versionName": "0.58",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.58/app.apk",
   "mandatory": false,
-  "notes": "정리 기능 강화: 카테고리·구분(장부)·계정을 삭제할 때 연결된 거래를 다른 곳으로 옮길지 선택할 수 있어요(건수 표시). 카테고리 이름을 바꾸면 기존 기록도 함께 바뀌어요. 계정 그룹 배지도 더 잘 보이게."
+  "notes": "계정 그룹을 드롭다운으로 — 탭하면 목록에서 고르고, 그룹 이름 바꾸기·삭제·추가(부동산, 코인 등)도 그 자리에서. 홈 내역 보기(시간순/장부별) 전환 버튼을 매니저 카드 바로 아래로 이동."
 }
