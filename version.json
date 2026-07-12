@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "0.52",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.52/app.apk",
+  "versionCode": 53,
+  "versionName": "0.53",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.53/app.apk",
   "mandatory": false,
-  "notes": "짠소리 정확도 수리: 카테고리와 금액이 뒤섞이거나, 없는 '평균'을 지어내거나, '지출을 늘려라' 같은 반대말이 나오던 것을 차단·자동 교정. (AI 재학습도 병행 중)"
+  "notes": "AI 질문 답변 정확도 강화: 지출 질문이 수입으로 둔갑하는 것 차단, 조회 안 한 카테고리·평균 주장 차단, 필터 없는 조회는 '전체 지출' 명시(오해 방지)."
 }
