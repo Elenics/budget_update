@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "0.63",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.63/app.apk",
+  "versionCode": 64,
+  "versionName": "0.64",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.64/app.apk",
   "mandatory": false,
-  "notes": "새로고침 로딩 표시: 놓은 뒤에도 스피너 알약이 '새로고침 중…'을 보여주고, 끝나면 탄성 복귀. 진행 여부가 명확해졌어요."
+  "notes": "업데이트가 여러 개 쌓여도 배너 한 번 탭이면 최신 버전으로 바로 점프해요."
 }
