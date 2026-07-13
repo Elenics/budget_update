@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "0.71",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.71/app.apk",
+  "versionCode": 72,
+  "versionName": "0.72",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.72/app.apk",
   "mandatory": false,
-  "notes": "계정(자산) 대분류>소분류 2단 체계 — 그룹별 계정 트리·이체 출발/도착 방향 표시·기입 화면 정돈(분류/장부/계정 라벨)"
+  "notes": "AI 두뇌 9차 교체 — 학습 방식 근본 수리(지시문 따라읽기 소멸·문장 자연스러움 대폭 개선). 설정에서 모델 재다운로드(1.0GB) 필요"
 }
