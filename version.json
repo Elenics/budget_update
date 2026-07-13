@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "0.65",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.65/app.apk",
+  "versionCode": 66,
+  "versionName": "0.66",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.66/app.apk",
   "mandatory": false,
-  "notes": "짠소리 정확도 재수리: 카테고리 이름을 줄여 말해도 금액 짝을 바로잡고, '이대로면 ~원 내야 할 거야' 같은 근거 없는 예측+금액 조합을 차단."
+  "notes": "AI 두뇌 대폭 업그레이드(8차 학습 승격): 말투 다양성·분류·문자 인식·짠소리·잡담 응대 전 지표 90~100% 달성. 설정에서 새 모델(1.0GB) 재다운로드가 필요해요 — 받고 나면 답변 품질이 확 달라집니다."
 }
