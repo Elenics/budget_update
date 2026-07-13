@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.62",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.62/app.apk",
+  "versionCode": 63,
+  "versionName": "0.63",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.63/app.apk",
   "mandatory": false,
-  "notes": "당겨서 새로고침 감각 개선: 화면이 손가락을 따라 내려오고, '조금 더 당겨요 → 놓으면 새로고침!' 알약이 떠요. 놓으면 탄성 있게 복귀."
+  "notes": "새로고침 로딩 표시: 놓은 뒤에도 스피너 알약이 '새로고침 중…'을 보여주고, 끝나면 탄성 복귀. 진행 여부가 명확해졌어요."
 }
