@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.59",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.59/app.apk",
+  "versionCode": 60,
+  "versionName": "0.60",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.60/app.apk",
   "mandatory": false,
-  "notes": "AI 답변 말투 다양화: 같은 질문에도 매번 다른 문장으로 시작하도록 개선(정산 끝!/어디 보자/한 줄 요약… 회전). 내부 학습 7차분 반영 준비."
+  "notes": "반응속도·새로고침 개선: ①결제 알림 후 앱을 열면 확인 카드가 즉시 떠요(AI 분류 제안은 1~2초 뒤 자동 채움) ②아래로 당기면 새로고침 ③업데이트 알림이 사용 중에도 떠요(포그라운드 체크)."
 }
