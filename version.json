@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.58",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.58/app.apk",
+  "versionCode": 59,
+  "versionName": "0.59",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.59/app.apk",
   "mandatory": false,
-  "notes": "계정 그룹을 드롭다운으로 — 탭하면 목록에서 고르고, 그룹 이름 바꾸기·삭제·추가(부동산, 코인 등)도 그 자리에서. 홈 내역 보기(시간순/장부별) 전환 버튼을 매니저 카드 바로 아래로 이동."
+  "notes": "AI 답변 말투 다양화: 같은 질문에도 매번 다른 문장으로 시작하도록 개선(정산 끝!/어디 보자/한 줄 요약… 회전). 내부 학습 7차분 반영 준비."
 }
