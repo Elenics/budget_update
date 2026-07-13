@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "0.60",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.60/app.apk",
+  "versionCode": 61,
+  "versionName": "0.61",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.61/app.apk",
   "mandatory": false,
-  "notes": "반응속도·새로고침 개선: ①결제 알림 후 앱을 열면 확인 카드가 즉시 떠요(AI 분류 제안은 1~2초 뒤 자동 채움) ②아래로 당기면 새로고침 ③업데이트 알림이 사용 중에도 떠요(포그라운드 체크)."
+  "notes": "당겨서 새로고침 수리: 화면 최상단에서 아래로 끌어당기면 새로고침돼요(알림 확인+업데이트 체크). 이전 버전에서 안 되던 문제 해결."
 }
