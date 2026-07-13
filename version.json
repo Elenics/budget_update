@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.61",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.61/app.apk",
+  "versionCode": 62,
+  "versionName": "0.62",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.62/app.apk",
   "mandatory": false,
-  "notes": "당겨서 새로고침 수리: 화면 최상단에서 아래로 끌어당기면 새로고침돼요(알림 확인+업데이트 체크). 이전 버전에서 안 되던 문제 해결."
+  "notes": "당겨서 새로고침 감각 개선: 화면이 손가락을 따라 내려오고, '조금 더 당겨요 → 놓으면 새로고침!' 알약이 떠요. 놓으면 탄성 있게 복귀."
 }
