@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "0.67",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.67/app.apk",
+  "versionCode": 68,
+  "versionName": "0.68",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.68/app.apk",
   "mandatory": false,
-  "notes": "중복 결제 자동 차단: 체크카드 결제 시 카드 승인+은행 출금 문자가 둘 다 와도 1건만 기록해요(금액·시각·채널 대조). 설정 > 개발자에 '중복 결제 스캔·정리'로 기존 중복도 한 번에 정리."
+  "notes": "자동 개인화 2종: ①시간대 습관 학습 — 평일 점심엔 회사, 주말엔 부부처럼 자주 쓰는 구분을 미리 골라둬요 ②예산 자동 제안 — 최근 3개월 평균으로 초안을 만들어주고, 리포트에서 카테고리별 소진율을 바로 확인(초과는 빨간색)."
 }
