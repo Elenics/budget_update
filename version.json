@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "0.64",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.64/app.apk",
+  "versionCode": 65,
+  "versionName": "0.65",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.65/app.apk",
   "mandatory": false,
-  "notes": "업데이트가 여러 개 쌓여도 배너 한 번 탭이면 최신 버전으로 바로 점프해요."
+  "notes": "짠소리 정확도 재수리: 카테고리 이름을 줄여 말해도 금액 짝을 바로잡고, '이대로면 ~원 내야 할 거야' 같은 근거 없는 예측+금액 조합을 차단."
 }
