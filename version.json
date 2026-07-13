@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "0.66",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.66/app.apk",
+  "versionCode": 67,
+  "versionName": "0.67",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.67/app.apk",
   "mandatory": false,
-  "notes": "AI 두뇌 대폭 업그레이드(8차 학습 승격): 말투 다양성·분류·문자 인식·짠소리·잡담 응대 전 지표 90~100% 달성. 설정에서 새 모델(1.0GB) 재다운로드가 필요해요 — 받고 나면 답변 품질이 확 달라집니다."
+  "notes": "중복 결제 자동 차단: 체크카드 결제 시 카드 승인+은행 출금 문자가 둘 다 와도 1건만 기록해요(금액·시각·채널 대조). 설정 > 개발자에 '중복 결제 스캔·정리'로 기존 중복도 한 번에 정리."
 }
