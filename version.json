@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "0.68",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.68/app.apk",
+  "versionCode": 69,
+  "versionName": "0.69",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.69/app.apk",
   "mandatory": false,
-  "notes": "자동 개인화 2종: ①시간대 습관 학습 — 평일 점심엔 회사, 주말엔 부부처럼 자주 쓰는 구분을 미리 골라둬요 ②예산 자동 제안 — 최근 3개월 평균으로 초안을 만들어주고, 리포트에서 카테고리별 소진율을 바로 확인(초과는 빨간색)."
+  "notes": "①AI 문장 품질 개선: 헛소리를 만들던 생성 설정을 낮추고(다양성은 시작부 회전이 담당) 깨진 한글 문장 차단 ②검수 카드 계정이 그룹(현금/은행/카드)별로 정리 ③설정 화면 정돈 — 균일한 카드, '세부설정'을 눌러야 내용이 펼쳐져요."
 }
