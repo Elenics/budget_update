@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "0.70",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.70/app.apk",
+  "versionCode": 71,
+  "versionName": "0.71",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.71/app.apk",
   "mandatory": false,
-  "notes": "짠소리 즉시 표시(미리 만들어두기) + 탭마다 다른 문구, 업데이트 확인 안정화(한도 초과 수리)"
+  "notes": "계정(자산) 대분류>소분류 2단 체계 — 그룹별 계정 트리·이체 출발/도착 방향 표시·기입 화면 정돈(분류/장부/계정 라벨)"
 }
