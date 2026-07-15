@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "0.87",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.87/app.apk",
+  "versionCode": 88,
+  "versionName": "0.88",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.88/app.apk",
   "mandatory": false,
-  "notes": "거래 상세(수정) 모달도 분류 대/소분류 시각 계층화+인라인 추가(분류·장부·계정)를 기입 모달과 동일하게 — 연관 화면 톤앤매너 일치"
+  "notes": "지출/수입/이체 활성 토글 글씨 진하게(밝은 민트에 묻힘 수정) · 대/소분류를 ㄴ·들여쓰기 대신 열 맞추고 희미한 실선으로 구분(선택색 구분은 유지) · 기입·상세 모달 동일"
 }
