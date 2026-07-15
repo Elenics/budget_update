@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "0.72",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.72/app.apk",
+  "versionCode": 73,
+  "versionName": "0.73",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.73/app.apk",
   "mandatory": false,
-  "notes": "AI 두뇌 9차 교체 — 학습 방식 근본 수리(지시문 따라읽기 소멸·문장 자연스러움 대폭 개선). 설정에서 모델 재다운로드(1.0GB) 필요"
+  "notes": "업데이트 새소식 카드 — 업데이트 후 첫 실행에 이번 버전 변경점을 홈에서 바로 확인"
 }
