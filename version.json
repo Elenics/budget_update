@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "0.75",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.75/app.apk",
+  "versionCode": 76,
+  "versionName": "0.76",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.76/app.apk",
   "mandatory": false,
-  "notes": "AI 대화가 시세·상식 질문도 대응 — '보통 얼마' 류는 세상 물가를 추정해 답하고(추정 명시), 내 장부 카테고리면 실측 평균도 함께 보여줘요"
+  "notes": "AI 대화가 웹 검색으로 세상 질문에 답해요 — 시세·최신 정보·상식 등 장부 밖 질문은 웹에서 사실을 찾아 답하고 출처를 보여줘요 (금융 질문은 그대로 폰 안에서)"
 }
