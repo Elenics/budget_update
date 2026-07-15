@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.80",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.80/app.apk",
+  "versionCode": 81,
+  "versionName": "0.81",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.81/app.apk",
   "mandatory": false,
-  "notes": "중복정리 무반응 수정(전역 알림 토스트) · 계정 기억을 카드 끝4자리로 세분화(한 은행 여러 카드 구분) · AI 활동 문구 명확화+이모지 정리"
+  "notes": "AI 활동 문구 조사 자동교정('개인'로→'개인'으로) — 습관 제안·계정 등록 문구 자연스럽게"
 }
