@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "0.83",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.83/app.apk",
+  "versionCode": 84,
+  "versionName": "0.84",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.84/app.apk",
   "mandatory": false,
-  "notes": "알림 본문 중복 파싱 수정 — TEXT·BIG_TEXT 등 여러 필드가 부분 포함 관계일 때 이어붙어 본문이 2번 반복되던 것(예: 가비아 출금)을 포함관계까지 제거해 1번으로"
+  "notes": "기입 모달에서 분류(대·소분류)·장부·계정을 그 자리에서 추가 — 설정 안 가도 됨(추가하면 설정에도 자동 반영). 기입 중 떠오른 항목 바로 만들기"
 }
