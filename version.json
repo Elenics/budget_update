@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "0.77",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.77/app.apk",
+  "versionCode": 78,
+  "versionName": "0.78",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.78/app.apk",
   "mandatory": false,
-  "notes": "대화 답변 다듬기 — 장부 질문 답에 내부 지시문이 새어 나오던 것 수정(더 자연스러운 반말 답변)"
+  "notes": "거래 아님: 차단 범위 직접 선택(발급사 통째→명세서류/카드번호/금액 세분화) · 진단 프라이버시: 금융 알림만 저장+대화 저장 안 함+기록 비우기 · 개발자 도구 정리(중복결제 정리는 데이터로 이동)"
 }
