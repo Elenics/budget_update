@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.76",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.76/app.apk",
+  "versionCode": 77,
+  "versionName": "0.77",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.77/app.apk",
   "mandatory": false,
-  "notes": "AI 대화가 웹 검색으로 세상 질문에 답해요 — 시세·최신 정보·상식 등 장부 밖 질문은 웹에서 사실을 찾아 답하고 출처를 보여줘요 (금융 질문은 그대로 폰 안에서)"
+  "notes": "대화 답변 다듬기 — 장부 질문 답에 내부 지시문이 새어 나오던 것 수정(더 자연스러운 반말 답변)"
 }
