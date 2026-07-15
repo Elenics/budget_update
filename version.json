@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "0.88",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.88/app.apk",
+  "versionCode": 89,
+  "versionName": "0.89",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.89/app.apk",
   "mandatory": false,
-  "notes": "지출/수입/이체 활성 토글 글씨 진하게(밝은 민트에 묻힘 수정) · 대/소분류를 ㄴ·들여쓰기 대신 열 맞추고 희미한 실선으로 구분(선택색 구분은 유지) · 기입·상세 모달 동일"
+  "notes": "지금분류↔장부 간격 · 모달 하단 스크롤 잘림(버튼 안 짤리게) · 이탈가드 버튼 크기 동일 · 제품가격 질문('X 얼마야')이 장부0건 대신 웹검색 · 짠소리 누를때마다 새로 생성(앵글 순환)해 다양성"
 }
