@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "0.79",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.79/app.apk",
+  "versionCode": 80,
+  "versionName": "0.80",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.80/app.apk",
   "mandatory": false,
-  "notes": "헤더 AI배지→설정 이동 · 중복정리 카드↔은행 짝 모달(날짜+남김/삭제 명시) · 내역 토=파랑·일=빨강 · 한 달 시작일 설정(월급날 기준) · 검수를 홈 인라인→팝업 모달 · 알림 카톡식 헤드업 팝업(몇초 후 자동 사라짐)+탭하면 검수"
+  "notes": "중복정리 무반응 수정(전역 알림 토스트) · 계정 기억을 카드 끝4자리로 세분화(한 은행 여러 카드 구분) · AI 활동 문구 명확화+이모지 정리"
 }
