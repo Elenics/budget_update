@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "0.73",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.73/app.apk",
+  "versionCode": 74,
+  "versionName": "0.74",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.74/app.apk",
   "mandatory": false,
-  "notes": "업데이트 새소식 카드 — 업데이트 후 첫 실행에 이번 버전 변경점을 홈에서 바로 확인"
+  "notes": "QA 17건 수리 — 내역 날짜정렬·검색·달력 추가, 검수 자동스크롤·대기표시·차단 확인창, 짠소리 언어가드 강화(영단어 혼입·잘림·조사), 예산 위험순 정렬, 매니저 기타 재분류 팁"
 }
