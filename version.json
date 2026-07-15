@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "0.85",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.85/app.apk",
+  "versionCode": 86,
+  "versionName": "0.86",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.86/app.apk",
   "mandatory": false,
-  "notes": "분류 대분류/소분류 시각 계층화 — 단계 라벨(대분류/└소분류)+소분류 들여쓰기+소분류 선택은 테두리 초록(대분류는 채운 초록)+선택 경로 표시"
+  "notes": "분류 대분류 전환 시 이전 소분류 선택 자동 해제(highlight·경로 어긋남 방지)"
 }
