@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "0.94",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.94/app.apk",
+  "versionCode": 95,
+  "versionName": "0.95",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.95/app.apk",
   "mandatory": false,
-  "notes": "사용성 개선 3종(사용자 제안) — 검수 모달 하단 액션바 고정+확정 전체폭1줄 · 🚫에 '거래 아님' 라벨 · '기타' 가맹점별 일괄 재분류(매니저 카드 버튼→모달, 재분류+기억 플라이휠)"
+  "notes": "사용성 3종(⑤⑥⑦) — 내역 계정·분류 원탭 필터(🔎) · 데이터 안심문구+일일 자동백업(최근7일)+이전백업 복원 · 짠소리 토큰 스트리밍(생성되는 대로 표시, 자리표시자는 완성시 실숫자로)"
 }
