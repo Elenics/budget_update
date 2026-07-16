@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "0.90",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.90/app.apk",
+  "versionCode": 91,
+  "versionName": "0.91",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.91/app.apk",
   "mandatory": false,
-  "notes": "짠소리 속도 2배(근거조회 LLM패스 제거 — 1회 호출로) + 프리웜 제거로 전경 생성 우선 · 버튼 매 탭 새로 생성(옛 캐시 안 나옴) · 억지 비유 금지 프롬프트로 어색한 한국말 완화"
+  "notes": "짠소리 억지비유 가드에서 예시문구 제거 — 예시가 오히려 그 문구를 따라하게 한 역효과 수정(실모델 검증: '안쪽 반장' 사라지고 문장 자연스러워짐). 서버 미러 동형"
 }
