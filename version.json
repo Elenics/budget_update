@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "0.95",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.95/app.apk",
+  "versionCode": 97,
+  "versionName": "0.97",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.97/app.apk",
   "mandatory": false,
-  "notes": "사용성 3종(⑤⑥⑦) — 내역 계정·분류 원탭 필터(🔎) · 데이터 안심문구+일일 자동백업(최근7일)+이전백업 복원 · 짠소리 토큰 스트리밍(생성되는 대로 표시, 자리표시자는 완성시 실숫자로)"
+  "notes": "'기타 정리' 문구 명확화(예시로 설명) + 이번 달 기준 통일(기타 정리·계정별 카드가 월시작일 설정을 정확히 따름)"
 }
