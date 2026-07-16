@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "0.92",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.92/app.apk",
+  "versionCode": 93,
+  "versionName": "0.93",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.93/app.apk",
   "mandatory": false,
-  "notes": "거래아님(🚫) 누르면 화면 뒤로 넘어가던 것 수정 — 패턴 선택창/삭제확인이 검수 네이티브모달 뒤에 깔려 배경탭이 모달을 닫던 것 → 네이티브 Modal로 올려 위에 뜨게"
+  "notes": "거래아님 후보 개선 — 카드+구매처 후보 추가('국민·쿠팡') · '결제일류' 오검출 제거(결제일시의 결제일) · 카드끝자리가 연도(2026)·승인번호를 잘못 잡던 버그 수정"
 }
