@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "0.93",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.93/app.apk",
+  "versionCode": 94,
+  "versionName": "0.94",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.94/app.apk",
   "mandatory": false,
-  "notes": "거래아님 후보 개선 — 카드+구매처 후보 추가('국민·쿠팡') · '결제일류' 오검출 제거(결제일시의 결제일) · 카드끝자리가 연도(2026)·승인번호를 잘못 잡던 버그 수정"
+  "notes": "사용성 개선 3종(사용자 제안) — 검수 모달 하단 액션바 고정+확정 전체폭1줄 · 🚫에 '거래 아님' 라벨 · '기타' 가맹점별 일괄 재분류(매니저 카드 버튼→모달, 재분류+기억 플라이휠)"
 }
