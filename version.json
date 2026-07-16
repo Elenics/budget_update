@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "0.89",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.89/app.apk",
+  "versionCode": 90,
+  "versionName": "0.90",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.90/app.apk",
   "mandatory": false,
-  "notes": "지금분류↔장부 간격 · 모달 하단 스크롤 잘림(버튼 안 짤리게) · 이탈가드 버튼 크기 동일 · 제품가격 질문('X 얼마야')이 장부0건 대신 웹검색 · 짠소리 누를때마다 새로 생성(앵글 순환)해 다양성"
+  "notes": "짠소리 속도 2배(근거조회 LLM패스 제거 — 1회 호출로) + 프리웜 제거로 전경 생성 우선 · 버튼 매 탭 새로 생성(옛 캐시 안 나옴) · 억지 비유 금지 프롬프트로 어색한 한국말 완화"
 }
