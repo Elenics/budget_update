@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.11/app.apk",
+  "versionCode": 112,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.12/app.apk",
   "mandatory": false,
-  "notes": "짠소리 버튼 불꽃 아이콘을 진한 색으로 — 초록 버튼 위에서 잘 보이게"
+  "notes": "업데이트 후 남는 설치 파일(~128MB)을 앱 시작 때 자동 정리 — 저장공간 상주 낭비 제거"
 }
