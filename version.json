@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "1.12",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.12/app.apk",
+  "versionCode": 113,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.13/app.apk",
   "mandatory": false,
-  "notes": "업데이트 후 남는 설치 파일(~128MB)을 앱 시작 때 자동 정리 — 저장공간 상주 낭비 제거"
+  "notes": "AI 모델 업그레이드(EXAONE 2.4B 압축판 1.2GB — 짠소리 문장력 개선, 설정에서 재다운로드) + 체크카드 문자에서 '(결제)'를 가게 이름으로 오인하던 것 수정 + 지출/수입/이체 활성 글씨 렌더 수정"
 }
