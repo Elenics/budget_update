@@ -1,7 +1,7 @@
 {
-  "versionCode": 109,
-  "versionName": "1.09",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.09/app.apk",
+  "versionCode": 110,
+  "versionName": "1.10",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.10/app.apk",
   "mandatory": false,
-  "notes": "안내 팝업 4초로 단축 + 헤더 로고 세로 정렬 + 설정 데이터 카드 정돈(버튼마다 쉬운 예시 설명)"
+  "notes": "카드·설정·버튼 아이콘 전면 교체(브랜드 톤 12종) + 다른 가계부 서비스명 문구 제거"
 }
