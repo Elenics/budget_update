@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.10/app.apk",
+  "versionCode": 111,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.11/app.apk",
   "mandatory": false,
-  "notes": "카드·설정·버튼 아이콘 전면 교체(브랜드 톤 12종) + 다른 가계부 서비스명 문구 제거"
+  "notes": "짠소리 버튼 불꽃 아이콘을 진한 색으로 — 초록 버튼 위에서 잘 보이게"
 }
