@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "1.07",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.07/app.apk",
+  "versionCode": 108,
+  "versionName": "1.08",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.08/app.apk",
   "mandatory": false,
-  "notes": "계정 추가를 그룹별 ＋로 — 어느 그룹(체크카드·신용카드 등)에 만들지 명확하게 + 새 항목 입력칸이 키보드에 안 가리게"
+  "notes": "새 얼굴 — 앱 이름 '짠소리 가계부', 홈 상단 버전 표시 제거, 탭바를 브랜드 톤 아이콘으로 교체"
 }
