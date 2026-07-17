@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "1.03",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.03/app.apk",
+  "versionCode": 104,
+  "versionName": "1.04",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.04/app.apk",
   "mandatory": false,
-  "notes": "짠소리 한국어 품질 가드 강화 — 자리표시자 이름이 단어로 새어 나온 어색한 줄('건수은…' 류)을 자동 제거"
+  "notes": "월급 조기입금 반영 — 시작일이 주말·공휴일이면 그 전 평일부터 한 달 시작(설정 토글, 공휴일은 연 1회 자동 캐시)"
 }
