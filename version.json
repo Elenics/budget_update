@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.00",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.00/app.apk",
+  "versionCode": 101,
+  "versionName": "1.01",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.01/app.apk",
   "mandatory": false,
-  "notes": "월 헤더에 실제 집계 기간 표시(예: 6/25~7/24) + '다음부터 자동' 문구를 '먼저 제안'으로 정정(쿠팡처럼 매번 다른 가게 부담 완화) + 기타 정리 목록 줄바꿈 정돈"
+  "notes": "알림 발신앱(카카오뱅크·신한 등)을 인식해 내 계정 목록과 맞으면 계정을 자동 제안 — 검수에서 언제든 바꿀 수 있어요"
 }
