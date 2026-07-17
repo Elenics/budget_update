@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "0.99",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.99/app.apk",
+  "versionCode": 100,
+  "versionName": "1.00",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.00/app.apk",
   "mandatory": false,
-  "notes": "'기타 정리'에서도 장부(구분)를 먼저 — 가게별로 장부를 한 번에 바꿀 수 있어요 (예: 회사 출장비 → 장부 '회사')"
+  "notes": "월 헤더에 실제 집계 기간 표시(예: 6/25~7/24) + '다음부터 자동' 문구를 '먼저 제안'으로 정정(쿠팡처럼 매번 다른 가게 부담 완화) + 기타 정리 목록 줄바꿈 정돈"
 }
