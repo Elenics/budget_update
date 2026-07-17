@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "0.98",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.98/app.apk",
+  "versionCode": 99,
+  "versionName": "0.99",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.99/app.apk",
   "mandatory": false,
-  "notes": "활성 지출/수입/이체 버튼 글씨 안 보이던 문제 수정(삼성 글꼴 호환) + 입력·수정·설정 순서를 장부→계정→분류로 통일"
+  "notes": "'기타 정리'에서도 장부(구분)를 먼저 — 가게별로 장부를 한 번에 바꿀 수 있어요 (예: 회사 출장비 → 장부 '회사')"
 }
