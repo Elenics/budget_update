@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "1.05",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.05/app.apk",
+  "versionCode": 106,
+  "versionName": "1.06",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.06/app.apk",
   "mandatory": false,
-  "notes": "한 달 시작 보정을 옵션으로 — 시작일이 주말·공휴일일 때 '그대로/앞당기기(조기입금)/미루기(익영업일)' 중 선택"
+  "notes": "공휴일 캐시를 월 1회 자동 갱신 — 연중 지정되는 임시공휴일도 반영"
 }
