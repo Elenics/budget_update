@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "1.04",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.04/app.apk",
+  "versionCode": 105,
+  "versionName": "1.05",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.05/app.apk",
   "mandatory": false,
-  "notes": "월급 조기입금 반영 — 시작일이 주말·공휴일이면 그 전 평일부터 한 달 시작(설정 토글, 공휴일은 연 1회 자동 캐시)"
+  "notes": "한 달 시작 보정을 옵션으로 — 시작일이 주말·공휴일일 때 '그대로/앞당기기(조기입금)/미루기(익영업일)' 중 선택"
 }
