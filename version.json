@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "1.02",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.02/app.apk",
+  "versionCode": 103,
+  "versionName": "1.03",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.03/app.apk",
   "mandatory": false,
-  "notes": "홈 거래 목록이 이번 달 전체를 다 보여줘요 — 이전엔 30건(장부별은 그룹당 20건)에서 몰래 잘려 '기록이 최근 며칠뿐'·'헤더 합계와 안 맞아 보임' 오해를 만들었어요"
+  "notes": "짠소리 한국어 품질 가드 강화 — 자리표시자 이름이 단어로 새어 나온 어색한 줄('건수은…' 류)을 자동 제거"
 }
