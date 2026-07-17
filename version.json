@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "0.97",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.97/app.apk",
+  "versionCode": 98,
+  "versionName": "0.98",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v0.98/app.apk",
   "mandatory": false,
-  "notes": "'기타 정리' 문구 명확화(예시로 설명) + 이번 달 기준 통일(기타 정리·계정별 카드가 월시작일 설정을 정확히 따름)"
+  "notes": "활성 지출/수입/이체 버튼 글씨 안 보이던 문제 수정(삼성 글꼴 호환) + 입력·수정·설정 순서를 장부→계정→분류로 통일"
 }
