@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "1.06",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.06/app.apk",
+  "versionCode": 107,
+  "versionName": "1.07",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.07/app.apk",
   "mandatory": false,
-  "notes": "공휴일 캐시를 월 1회 자동 갱신 — 연중 지정되는 임시공휴일도 반영"
+  "notes": "계정 추가를 그룹별 ＋로 — 어느 그룹(체크카드·신용카드 등)에 만들지 명확하게 + 새 항목 입력칸이 키보드에 안 가리게"
 }
