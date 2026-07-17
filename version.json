@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.01",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.01/app.apk",
+  "versionCode": 102,
+  "versionName": "1.02",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.02/app.apk",
   "mandatory": false,
-  "notes": "알림 발신앱(카카오뱅크·신한 등)을 인식해 내 계정 목록과 맞으면 계정을 자동 제안 — 검수에서 언제든 바꿀 수 있어요"
+  "notes": "홈 거래 목록이 이번 달 전체를 다 보여줘요 — 이전엔 30건(장부별은 그룹당 20건)에서 몰래 잘려 '기록이 최근 며칠뿐'·'헤더 합계와 안 맞아 보임' 오해를 만들었어요"
 }
