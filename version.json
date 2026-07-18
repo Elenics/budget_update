@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "1.19",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.19/app.apk",
+  "versionCode": 120,
+  "versionName": "1.20",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.20/app.apk",
   "mandatory": false,
-  "notes": "새 탭 '금리' — 이자 높은 정기예금·적금 순위(금융감독원 공시, 매일 아침 자동 갱신). 앱은 목록을 내려받기만 하고 내 데이터는 보내지 않아요"
+  "notes": "짠소리가 절약 성과를 보면 금리 탭의 실제 최고 금리로 적금을 권해요. 금리 탭에 '내 여윳돈 시뮬' — 이번 달 남긴 돈을 1위 예금에 넣으면 이자가 얼마인지 바로 계산"
 }
