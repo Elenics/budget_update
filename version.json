@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.24",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.24/app.apk",
+  "versionCode": 125,
+  "versionName": "1.25",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.25/app.apk",
   "mandatory": false,
-  "notes": "결제 순간 문맥 알림(빈도·예산 함께), 카톡 정산 인식 → '받을 돈' 목록·입금되면 자동 정리, '이 앱이 지켜준 돈' 누적 표시, 홈 화면 위젯, 매달 결산 브리핑 알림"
+  "notes": "짠소리 문장 다듬기(조사 오류 수리). 내부 정비: 스토어 배포용 빌드를 따로 분리했어요 — 지금 쓰시는 버전은 그대로 자동 업데이트됩니다"
 }
