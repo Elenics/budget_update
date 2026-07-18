@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.14",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.14/app.apk",
+  "versionCode": 115,
+  "versionName": "1.15",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.15/app.apk",
   "mandatory": false,
-  "notes": "AI 모델 R11 — 정산 요청 같은 문장형 메시지 이해력 추가, '돈 얼마나 태웠냐' 같은 구어체 질문 인식, 한국 브랜드 116곳 분류 지식 확충 (설정에서 모델 재다운로드 1.2GB)"
+  "notes": "스마트 검색(자연어 내역 질의: 시간대·금액·요일·분류·계정), 카톡 정산·비정형 메시지 자동 인식(검수 카드), 모델 다운로드를 GitHub로 이전(어느 네트워크서나 가능), 아이콘·글씨 높이 정렬 수리"
 }
