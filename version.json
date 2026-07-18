@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.22",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.22/app.apk",
+  "versionCode": 123,
+  "versionName": "1.23",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.23/app.apk",
   "mandatory": false,
-  "notes": "금리 탭에서 끈 우대조건이 저장돼요(내 조건 프로필). 짠소리의 적금 권유와 여윳돈 시뮬도 내가 실제 받을 수 있는 금리 기준으로 계산"
+  "notes": "우대조건 필터에 '제휴카드' 추가 — 특정 카드(롯데카드 등) 발급·사용 조건 상품을 걸러낼 수 있어요. 카드 조건 인식도 더 촘촘해졌어요"
 }
