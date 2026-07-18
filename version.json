@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "1.23",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.23/app.apk",
+  "versionCode": 124,
+  "versionName": "1.24",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.24/app.apk",
   "mandatory": false,
-  "notes": "우대조건 필터에 '제휴카드' 추가 — 특정 카드(롯데카드 등) 발급·사용 조건 상품을 걸러낼 수 있어요. 카드 조건 인식도 더 촘촘해졌어요"
+  "notes": "결제 순간 문맥 알림(빈도·예산 함께), 카톡 정산 인식 → '받을 돈' 목록·입금되면 자동 정리, '이 앱이 지켜준 돈' 누적 표시, 홈 화면 위젯, 매달 결산 브리핑 알림"
 }
