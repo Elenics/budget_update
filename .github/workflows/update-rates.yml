@@ -1,0 +1,30 @@
+name: update-rates
+# 이자 높은 예금·적금 리스트 매일 갱신 — 금감원 finlife API → rates.json (앱이 raw CDN에서 읽음)
+on:
+  schedule:
+    - cron: '30 21 * * *'   # 06:30 KST 매일
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  rates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fetch
+        env:
+          FSS_KEY: ${{ secrets.FSS_KEY }}
+        run: node fetch-rates.mjs
+      - name: commit if changed
+        run: |
+          git config user.name 'rates-bot'
+          git config user.email 'actions@github.com'
+          if ! git diff --quiet rates.json 2>/dev/null || [ -n "$(git status --porcelain rates.json)" ]; then
+            git add rates.json
+            git commit -m "rates: $(date -u -d '+9 hours' +%F) 금리 갱신"
+            git push
+          else
+            echo 'no change'
+          fi
