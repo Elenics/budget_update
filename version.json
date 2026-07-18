@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "1.18",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.18/app.apk",
+  "versionCode": 119,
+  "versionName": "1.19",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.19/app.apk",
   "mandatory": false,
-  "notes": "이자 높은 예금·적금 리스트(리포트 탭) — 금융감독원 공시를 매일 아침 자동 갱신. 앱은 목록을 내려받기만 하고 내 데이터는 아무것도 안 보내요"
+  "notes": "새 탭 '금리' — 이자 높은 정기예금·적금 순위(금융감독원 공시, 매일 아침 자동 갱신). 앱은 목록을 내려받기만 하고 내 데이터는 보내지 않아요"
 }
