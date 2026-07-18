@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>개인정보처리방침 — 짠소리 가계부</title>
+<meta name="description" content="짠소리 가계부(com.sonjisu.budget) 개인정보처리방침. 모든 데이터는 기기 안에서만 처리되며 외부로 전송되지 않습니다.">
+<style>
+  :root { color-scheme: light dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 28px 20px 72px;
+    font-family: -apple-system, BlinkMacSystemFont, "Malgun Gothic", "Apple SD Gothic Neo", sans-serif;
+    line-height: 1.75; color: #1c2530; background: #ffffff;
+    word-break: keep-all; overflow-wrap: anywhere;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  h1 { font-size: 1.6rem; margin: 0 0 6px; letter-spacing: -0.01em; }
+  h2 { font-size: 1.12rem; margin: 34px 0 10px; padding-top: 14px; border-top: 1px solid #e6ebf0; }
+  .date { color: #6b7a89; font-size: .92rem; margin-bottom: 26px; }
+  .lead { background: #f2faf6; border: 1px solid #cfe9dd; border-left: 4px solid #34a578;
+          border-radius: 12px; padding: 16px 18px; margin: 22px 0 8px; }
+  .lead strong { color: #146c4d; }
+  ul { padding-left: 20px; } li { margin: 6px 0; }
+  .tablewrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  table { border-collapse: collapse; width: 100%; min-width: 460px; font-size: .95rem; margin: 10px 0; }
+  th, td { border: 1px solid #e2e8ee; padding: 9px 11px; text-align: left; vertical-align: top; }
+  th { background: #f6f8fa; font-weight: 600; }
+  footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #e6ebf0; color: #6b7a89; font-size: .9rem; }
+  @media (prefers-color-scheme: dark) {
+    body { background: #0e141a; color: #dfe7ee; }
+    h2 { border-color: #22303c; }
+    .lead { background: #12241d; border-color: #23483a; border-left-color: #4cc38a; }
+    th { background: #16202a; } th, td { border-color: #22303c; }
+    .date, footer { color: #93a3b3; } footer { border-color: #22303c; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>개인정보처리방침 — 짠소리 가계부</h1>
+<p class="date">시행일: 2026년 7월 19일 · 앱 패키지 <code>com.sonjisu.budget</code></p>
+
+<div class="lead">
+  <strong>핵심 요약 — 이 앱은 이용자의 금융 정보와 개인정보를 개발자 서버나 제3자에게 전송하지 않습니다.</strong>
+  <ul>
+    <li>회원가입, 로그인, 계좌·카드 연동이 없습니다.</li>
+    <li>거래 내역·결제 알림 내용·카테고리 등 모든 데이터는 <b>이용자 기기 내부 저장소에만</b> 저장됩니다.</li>
+    <li>분석에 쓰는 인공지능(AI) 모델이 기기 안에서 동작합니다(온디바이스). 분석을 위해 데이터를 밖으로 보내지 않습니다.</li>
+    <li>앱이 인터넷을 쓰는 경우는 <b>내려받기 목적뿐</b>입니다(AI 모델 파일, 예·적금 금리 공시 목록).</li>
+  </ul>
+</div>
+
+<h2>1. 처리하는 정보</h2>
+<p>앱은 아래 정보를 <b>기기 내부에서만</b> 처리합니다. 개발자는 이 정보에 접근할 수 없습니다.</p>
+<div class="tablewrap">
+<table>
+  <tr><th>정보</th><th>처리 목적</th><th>저장 위치</th><th>외부 전송</th></tr>
+  <tr><td>결제·입금 알림 내용(가맹점명, 금액, 시각)</td><td>가계부 자동 기록</td><td>기기 내부 앱 저장소</td><td>하지 않음</td></tr>
+  <tr><td>이용자가 직접 입력한 거래·메모·예산</td><td>가계부 기능 제공</td><td>기기 내부 앱 저장소</td><td>하지 않음</td></tr>
+  <tr><td>카테고리 수정 이력</td><td>자동 분류 정확도 개선(기기 내 학습)</td><td>기기 내부 앱 저장소</td><td>하지 않음</td></tr>
+  <tr><td>음성 입력(선택 기능 사용 시)</td><td>지출 내용 받아쓰기</td><td>저장하지 않음(변환 후 폐기)</td><td>하지 않음</td></tr>
+</table>
+</div>
+<p>금융과 관련 없는 알림은 저장하지 않고 즉시 폐기합니다.</p>
+
+<h2>2. 권한 안내</h2>
+<div class="tablewrap">
+<table>
+  <tr><th>권한</th><th>사용 목적</th><th>거부하면</th></tr>
+  <tr><td>알림 접근</td><td>카드 승인·입금 알림을 읽어 자동 기록</td><td>자동 기록만 동작하지 않으며, 직접 입력으로 사용 가능</td></tr>
+  <tr><td>알림 표시</td><td>거래 감지·월간 결산 안내</td><td>알림만 표시되지 않음</td></tr>
+  <tr><td>마이크</td><td>음성으로 지출 입력(버튼을 누른 순간에만)</td><td>음성 입력만 사용 불가</td></tr>
+  <tr><td>인터넷</td><td>AI 모델·금리 목록 내려받기</td><td>AI 기능과 금리 목록만 사용 불가</td></tr>
+</table>
+</div>
+<p>권한은 안드로이드 설정에서 언제든 철회할 수 있습니다.</p>
+
+<h2>3. 외부 서비스</h2>
+<p>앱은 아래에서 <b>데이터를 내려받기만</b> 하며, 이용자 정보를 보내지 않습니다.</p>
+<ul>
+  <li><b>GitHub</b> — AI 모델 파일 및 금리 목록 파일 배포(HTTPS)</li>
+  <li><b>금융감독원 금융상품통합비교공시</b> — 예·적금 금리 공시 자료. 개발자가 공시 자료를 수집해 파일로 배포하며, 이 과정에 이용자 정보는 포함되지 않습니다.</li>
+</ul>
+<p>앱에는 광고 SDK와 사용자 행동 분석 SDK가 포함되어 있지 않습니다.</p>
+
+<h2>4. 보관 및 파기</h2>
+<ul>
+  <li>모든 데이터가 이용자 기기에만 있으므로, <b>앱을 삭제하면 함께 삭제</b>됩니다.</li>
+  <li>개발자가 별도로 보관하는 사본은 없습니다.</li>
+  <li>앱 안에서 개별 데이터를 직접 삭제할 수 있습니다.</li>
+</ul>
+
+<h2>5. 아동 보호</h2>
+<p>앱은 만 14세 미만 아동을 대상으로 하지 않으며, 아동의 개인정보를 의도적으로 수집하지 않습니다.</p>
+
+<h2>6. 이용자 권리</h2>
+<p>데이터가 기기에만 저장되므로 열람·수정·삭제를 이용자가 앱 안에서 직접 수행할 수 있습니다. 개발자에게 별도로 요청할 정보가 없습니다.</p>
+
+<h2>7. 안전성 확보 조치</h2>
+<ul>
+  <li>데이터는 안드로이드가 제공하는 앱별 저장 공간에 보관되어 다른 앱이 접근할 수 없습니다.</li>
+  <li>앱의 모든 네트워크 통신은 HTTPS로 암호화됩니다.</li>
+</ul>
+
+<h2>8. 방침 변경</h2>
+<p>이 방침이 변경되면 앱 업데이트와 이 페이지를 통해 공지합니다. 중요한 변경은 앱 안에서도 안내합니다.</p>
+
+<h2>9. 문의</h2>
+<p>개발자: KKAN LABS<br>이메일: <a href="mailto:national984@gmail.com">national984@gmail.com</a></p>
+
+<footer>짠소리 가계부 · 최종 업데이트 2026-07-19</footer>
+</div>
+</body>
+</html>
