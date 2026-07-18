@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "1.15",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.15/app.apk",
+  "versionCode": 116,
+  "versionName": "1.16",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.16/app.apk",
   "mandatory": false,
-  "notes": "스마트 검색(자연어 내역 질의: 시간대·금액·요일·분류·계정), 카톡 정산·비정형 메시지 자동 인식(검수 카드), 모델 다운로드를 GitHub로 이전(어느 네트워크서나 가능), 아이콘·글씨 높이 정렬 수리"
+  "notes": "지출·수입·이체 버튼 글씨 안 보이던 문제 수리(일부 폰 글꼴에서만 발생), 모델·업데이트 다운로드가 앱을 내려도 계속 진행(알림으로 진행률 표시)"
 }
