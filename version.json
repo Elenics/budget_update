@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "1.17",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.17/app.apk",
+  "versionCode": 118,
+  "versionName": "1.18",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.18/app.apk",
   "mandatory": false,
-  "notes": "짠소리 품질 전면 교체 — AI 즉석 생성 대신 미리 다듬은 문장(상황 인식 + 실제 숫자 채움)으로. 즉시 표시(대기 0초), 모델 없이도 동작, 탭할 때마다 다른 문장"
+  "notes": "이자 높은 예금·적금 리스트(리포트 탭) — 금융감독원 공시를 매일 아침 자동 갱신. 앱은 목록을 내려받기만 하고 내 데이터는 아무것도 안 보내요"
 }
