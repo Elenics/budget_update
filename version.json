@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.16",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.16/app.apk",
+  "versionCode": 117,
+  "versionName": "1.17",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.17/app.apk",
   "mandatory": false,
-  "notes": "지출·수입·이체 버튼 글씨 안 보이던 문제 수리(일부 폰 글꼴에서만 발생), 모델·업데이트 다운로드가 앱을 내려도 계속 진행(알림으로 진행률 표시)"
+  "notes": "짠소리 품질 전면 교체 — AI 즉석 생성 대신 미리 다듬은 문장(상황 인식 + 실제 숫자 채움)으로. 즉시 표시(대기 0초), 모델 없이도 동작, 탭할 때마다 다른 문장"
 }
