@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "1.21",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.21/app.apk",
+  "versionCode": 122,
+  "versionName": "1.22",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.22/app.apk",
   "mandatory": false,
-  "notes": "금리 탭 업그레이드 — 상품을 탭하면 우대조건 원문·가입방법·은행 홈페이지/상품 검색 바로가기. 달성 어려운 우대조건(급여이체·카드실적 등)을 꺼서 상품을 걸러보는 필터 추가"
+  "notes": "금리 탭에서 끈 우대조건이 저장돼요(내 조건 프로필). 짠소리의 적금 권유와 여윳돈 시뮬도 내가 실제 받을 수 있는 금리 기준으로 계산"
 }
