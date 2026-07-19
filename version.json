@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.28",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.28/app.apk",
+  "versionCode": 129,
+  "versionName": "1.29",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.29/app.apk",
   "mandatory": false,
-  "notes": "대화 기능이 어디서나 됩니다 — 검색 연결을 공개 서버로 옮겼어요(집 네트워크 밖에서도 동작)"
+  "notes": "할부 인식 수리(문자에 '할부' 단어가 없어도 개월수 인식) + 기입·수정 화면 정리(접힘 요약·선택색 통일·계정 최근순)"
 }
