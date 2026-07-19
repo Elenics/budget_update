@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.27",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.27/app.apk",
+  "versionCode": 128,
+  "versionName": "1.28",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.28/app.apk",
   "mandatory": false,
-  "notes": "대화 기능이 스토어 버전에서도 그대로 동작합니다. 웹 검색 시 질문 문장만 전달된다는 점을 개인정보처리방침에 명시했어요"
+  "notes": "대화 기능이 어디서나 됩니다 — 검색 연결을 공개 서버로 옮겼어요(집 네트워크 밖에서도 동작)"
 }
