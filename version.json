@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "1.29",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.29/app.apk",
+  "versionCode": 130,
+  "versionName": "1.30",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.30/app.apk",
   "mandatory": false,
-  "notes": "할부 인식 수리(문자에 '할부' 단어가 없어도 개월수 인식) + 기입·수정 화면 정리(접힘 요약·선택색 통일·계정 최근순)"
+  "notes": "v1.29 성능 회귀 긴급 수정 — 분류·계정 고를 때 느려지던 문제(화면 재생성) 해결"
 }
