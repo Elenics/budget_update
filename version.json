@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.30/app.apk",
+  "versionCode": 131,
+  "versionName": "1.31",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.31/app.apk",
   "mandatory": false,
-  "notes": "v1.29 성능 회귀 긴급 수정 — 분류·계정 고를 때 느려지던 문제(화면 재생성) 해결"
+  "notes": "내역·집계 성능 개선 — 거래가 많아도 화면 전환·분류 선택이 매끄럽게(파생 계산 메모이제이션)"
 }
