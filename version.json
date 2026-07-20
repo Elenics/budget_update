@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.32/app.apk",
+  "versionCode": 133,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.33/app.apk",
   "mandatory": false,
-  "notes": "카드사 아닌 결제 안내(복지포탈·쿠팡·배민 등) 판매처 자동 인식 — 상품명 대신 판매처가 뜨게 개선 + 앱 이름 '짠소리 가계부'로"
+  "notes": "기존 대기 카드도 판매처로 자동 교정 — 업데이트 전 쌓인 복지포탈·쿠팡 등 결제 안내가 상품명 대신 판매처로 정리돼요"
 }
