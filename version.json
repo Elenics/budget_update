@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.31/app.apk",
+  "versionCode": 132,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.32/app.apk",
   "mandatory": false,
-  "notes": "내역·집계 성능 개선 — 거래가 많아도 화면 전환·분류 선택이 매끄럽게(파생 계산 메모이제이션)"
+  "notes": "카드사 아닌 결제 안내(복지포탈·쿠팡·배민 등) 판매처 자동 인식 — 상품명 대신 판매처가 뜨게 개선 + 앱 이름 '짠소리 가계부'로"
 }
