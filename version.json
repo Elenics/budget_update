@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.34/app.apk",
+  "versionCode": 135,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.35/app.apk",
   "mandatory": false,
-  "notes": "짠소리 요약 개편(지난달 '같은 시점' 비교 + 상황별 앵글) + 계정별 한 달 예산·임박 알림(용돈 카드 한도 걸면 80% 등에서 푸시, %는 직접 지정)"
+  "notes": "예정 안내(대출 납입일·자동이체 예정 등)를 지출로 잘못 등재하던 문제 + 대출잔액·한도 금액을 지출로 오인식하던 문제 수정"
 }
