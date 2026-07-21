@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.33/app.apk",
+  "versionCode": 134,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.34/app.apk",
   "mandatory": false,
-  "notes": "기존 대기 카드도 판매처로 자동 교정 — 업데이트 전 쌓인 복지포탈·쿠팡 등 결제 안내가 상품명 대신 판매처로 정리돼요"
+  "notes": "짠소리 요약 개편(지난달 '같은 시점' 비교 + 상황별 앵글) + 계정별 한 달 예산·임박 알림(용돈 카드 한도 걸면 80% 등에서 푸시, %는 직접 지정)"
 }
