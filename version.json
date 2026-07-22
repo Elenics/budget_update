@@ -3,5 +3,5 @@
   "versionName": "1.37",
   "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.37/app.apk",
   "mandatory": false,
-  "notes": "background memory-hit auto-registration"
+  "notes": "앱을 안 켜도 자주 가는 곳(학습된 가게)의 결제는 백그라운드에서 자동 기록돼요. 애매한 건만 앱 열 때 확인합니다."
 }
