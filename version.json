@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.35",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.35/app.apk",
+  "versionCode": 136,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.36/app.apk",
   "mandatory": false,
-  "notes": "예정 안내(대출 납입일·자동이체 예정 등)를 지출로 잘못 등재하던 문제 + 대출잔액·한도 금액을 지출로 오인식하던 문제 수정"
+  "notes": "🧪 실험실에 '통신비 절약' 추가 — 알뜰폰 할인 만기 전에 더 싼 요금제로 갈아타게 알려줘요(백그라운드 알림 포함). · 결제 자동감지가 줄던 문제 수정(대출 안내 문자가 실제 결제를 가리던 것). · 분류 '접기' 버튼이 안 되던 것 수정."
 }
