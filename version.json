@@ -3,5 +3,5 @@
   "versionName": "1.45",
   "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.45/app.apk",
   "mandatory": false,
-  "notes": "telco list as-of date"
+  "notes": "알뜰폰 추천 목록 위에 '언제 기준 요금제인지'(갱신 날짜)를 작게 표시해요. 요금제 데이터는 주 1회 자동으로 새로고침됩니다."
 }
