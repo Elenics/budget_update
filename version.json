@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "1.36",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.36/app.apk",
+  "versionCode": 137,
+  "versionName": "1.37",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.37/app.apk",
   "mandatory": false,
-  "notes": "🧪 실험실에 '통신비 절약' 추가 — 알뜰폰 할인 만기 전에 더 싼 요금제로 갈아타게 알려줘요(백그라운드 알림 포함). · 결제 자동감지가 줄던 문제 수정(대출 안내 문자가 실제 결제를 가리던 것). · 분류 '접기' 버튼이 안 되던 것 수정."
+  "notes": "background memory-hit auto-registration"
 }
