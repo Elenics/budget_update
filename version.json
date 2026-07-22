@@ -3,5 +3,5 @@
   "versionName": "1.42",
   "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.42/app.apk",
   "mandatory": false,
-  "notes": "auto-fill learned account on auto-register"
+  "notes": "자동 기록될 때 계정(자산)도 학습된 대로 자동으로 채워줘요. 이전엔 계정만 매번 직접 골라야 했죠. 그리고 거래를 열어 계정을 바꾸면 그 카드는 다음부터 그 계정으로 기억돼요."
 }
