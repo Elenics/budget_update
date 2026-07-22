@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "1.44",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.44/app.apk",
+  "versionCode": 145,
+  "versionName": "1.45",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.45/app.apk",
   "mandatory": false,
-  "notes": "금액을 입력할 때 3자리마다 콤마(,)가 자동으로 붙어요. 예: 30000 → 30,000."
+  "notes": "telco list as-of date"
 }
