@@ -3,5 +3,5 @@
   "versionName": "1.41",
   "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.41/app.apk",
   "mandatory": false,
-  "notes": "fix collapse + income category add"
+  "notes": "계정 목록 '접기'가 안 접히던 문제를 고쳤어요. 그리고 수입 기록할 때도 분류를 그 자리에서 '＋'로 바로 추가할 수 있어요(지출·계정처럼)."
 }
