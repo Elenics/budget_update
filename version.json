@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.43",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.43/app.apk",
+  "versionCode": 144,
+  "versionName": "1.44",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.44/app.apk",
   "mandatory": false,
-  "notes": "이제 앱을 안 켜도 백그라운드에서 자동 기록 + 알림이 떠요. (배경에서 실행이 막히던 문제를 고쳤어요 — 삼성 등에서 특히.) 학습된 가게 결제가 오면 앱을 켜지 않아도 바로 기록됩니다."
+  "notes": "comma-format amount inputs"
 }
