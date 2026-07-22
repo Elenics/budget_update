@@ -3,5 +3,5 @@
   "versionName": "1.40",
   "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.40/app.apk",
   "mandatory": false,
-  "notes": "auto-record opt-out toggle"
+  "notes": "앱을 안 켜도 자주 가는 곳(학습된 가게)의 결제는 백그라운드에서 자동 기록돼요. 자동 기록된 거래엔 '자동' 표시가 붙고, 탭하면 설명이 나와요. 원치 않으면 설정 > 실시간 알림 캡처에서 끌 수 있어요."
 }
