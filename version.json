@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.46",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.46/app.apk",
+  "versionCode": 147,
+  "versionName": "1.47",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.47/app.apk",
   "mandatory": false,
-  "notes": "알뜰폰 요금제 출처 표기를 다듬었어요(오해 소지 문구 정리)."
+  "notes": "광고 문자 오등재 수리 — (광고)·수신거부 문구가 든 문자는 거래로 안 잡음 + 발급사 부분매칭(수신한→신한 오인) 수리"
 }
