@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "1.48",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.48/app.apk",
+  "versionCode": 149,
+  "versionName": "1.49",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.49/app.apk",
   "mandatory": false,
-  "notes": "수동 입력 즉시화(단순 지출은 대기 없이 카드) + 홈 지출 대시보드에 등록 안 된 장부 지출 누락 수정 (v1.47 광고차단·발급사경계 커밋 정합 포함)"
+  "notes": "홈 지출 대시보드에 장부별/계정별 토글 추가 — 계정(자산) 지출도 홈에서 바로 볼 수 있게(계정 지출 있을 때만 토글 노출, 선택 저장)"
 }
