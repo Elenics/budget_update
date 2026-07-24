@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.47",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.47/app.apk",
+  "versionCode": 148,
+  "versionName": "1.48",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.48/app.apk",
   "mandatory": false,
-  "notes": "광고 문자 오등재 수리 — (광고)·수신거부 문구가 든 문자는 거래로 안 잡음 + 발급사 부분매칭(수신한→신한 오인) 수리"
+  "notes": "수동 입력 즉시화(단순 지출은 대기 없이 카드) + 홈 지출 대시보드에 등록 안 된 장부 지출 누락 수정 (v1.47 광고차단·발급사경계 커밋 정합 포함)"
 }
