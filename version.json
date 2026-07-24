@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.51/app.apk",
+  "versionCode": 152,
+  "versionName": "1.52",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.52/app.apk",
   "mandatory": false,
-  "notes": "홈 대시보드 표시항목 선택 — 우측 상단 ⚙️로 장부·계정별 어떤 항목을 홈 요약에 보일지 유저가 선택(일부만/전체). 숨겨도 지출 합계·%엔 그대로 포함, 선택은 저장."
+  "notes": "홈 대시보드 표시항목 모달 — 섹션 헤더(장부(구분)·계정(자산))를 민트색으로 구분(항목과 크기·볼드만으론 구분 약해 색상으로)."
 }
