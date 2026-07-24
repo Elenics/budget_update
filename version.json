@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "1.49",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.49/app.apk",
+  "versionCode": 150,
+  "versionName": "1.50",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.50/app.apk",
   "mandatory": false,
-  "notes": "홈 지출 대시보드에 장부별/계정별 토글 추가 — 계정(자산) 지출도 홈에서 바로 볼 수 있게(계정 지출 있을 때만 토글 노출, 선택 저장)"
+  "notes": "거래아님 알림 억제 — 주문완료·광고·안내는 '확인할 거래'에서 제외하고 문구도 '거래 감지'→'확인할 거래'로 정정. 백그라운드 자동등재 진단 로그 + 설정에 '진단 로그 보내기' 추가. 문자↔카드앱 중복 감지 강화(결제시각 기준)."
 }
