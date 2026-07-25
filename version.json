@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "1.56",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.56/app.apk",
+  "versionCode": 157,
+  "versionName": "1.57",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.57/app.apk",
   "mandatory": false,
-  "notes": "해외결제(USD 등)는 원화 금액이 문자에 없어서, 이제 '금액 확인' 카드로 띄워 직접 입력하실 수 있어요. 가맹점 이름(AMAZON 등)도 제대로 잡고, 자동으로 잘못된 금액을 넣지 않아요."
+  "notes": "내역에서 수입만 있는 날(월급날 등)이 '0원'으로 보이던 걸 '수입 +금액'으로 제대로 표시해요."
 }
