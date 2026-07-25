@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "1.55",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.55/app.apk",
+  "versionCode": 156,
+  "versionName": "1.56",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.56/app.apk",
   "mandatory": false,
-  "notes": "해외결제 문자에서 '잔액'을 지출로 잘못 잡던 문제를 고쳤어요. 그리고 한 가게를 여러 분류로 쓰면 자동 저장 대신 '확인'을 요청해서, 한 번 학습한 분류로 100% 고정되지 않게 했어요."
+  "notes": "해외결제(USD 등)는 원화 금액이 문자에 없어서, 이제 '금액 확인' 카드로 띄워 직접 입력하실 수 있어요. 가맹점 이름(AMAZON 등)도 제대로 잡고, 자동으로 잘못된 금액을 넣지 않아요."
 }
