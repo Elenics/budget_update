@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "1.54",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.54/app.apk",
+  "versionCode": 155,
+  "versionName": "1.55",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.55/app.apk",
   "mandatory": false,
-  "notes": "재테크 꿀팁(이자 높은 예금·적금 비교)이 설정 > 실험실로 옮겨갔어요 — 필요할 때 켜서 보세요. 하단 메뉴가 홈·내역·리포트·설정으로 깔끔해졌어요."
+  "notes": "해외결제 문자에서 '잔액'을 지출로 잘못 잡던 문제를 고쳤어요. 그리고 한 가게를 여러 분류로 쓰면 자동 저장 대신 '확인'을 요청해서, 한 번 학습한 분류로 100% 고정되지 않게 했어요."
 }
