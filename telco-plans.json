@@ -1,6 +1,6 @@
 {
- "updated": "2026-07-23",
- "count": 721,
+ "updated": "2026-07-26",
+ "count": 717,
  "plans": [
   {
    "id": 5019,
@@ -1221,7 +1221,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 11000,
+   "promo": 10000,
    "months": 7,
    "after": 48400,
    "isPromo": true
@@ -1233,7 +1233,7 @@
    "data": "100GB",
    "dataGb": 100.0,
    "voiceUnlim": true,
-   "promo": 13500,
+   "promo": 10500,
    "months": 7,
    "after": 55000,
    "isPromo": true
@@ -1293,7 +1293,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 11000,
+   "promo": 10000,
    "months": 7,
    "after": 48400,
    "isPromo": true
@@ -1305,7 +1305,7 @@
    "data": "100GB",
    "dataGb": 100.0,
    "voiceUnlim": true,
-   "promo": 13500,
+   "promo": 10500,
    "months": 7,
    "after": 55000,
    "isPromo": true
@@ -1797,9 +1797,9 @@
    "data": "95GB",
    "dataGb": 95.0,
    "voiceUnlim": true,
-   "promo": 25000,
+   "promo": 23300,
    "months": 24,
-   "after": 48400,
+   "after": 49500,
    "isPromo": true
   },
   {
@@ -1809,7 +1809,7 @@
    "data": "125GB",
    "dataGb": 125.0,
    "voiceUnlim": true,
-   "promo": 13500,
+   "promo": 12900,
    "months": 7,
    "after": 51700,
    "isPromo": true
@@ -1821,7 +1821,7 @@
    "data": "150GB",
    "dataGb": 150.0,
    "voiceUnlim": true,
-   "promo": 14000,
+   "promo": 13200,
    "months": 7,
    "after": 60500,
    "isPromo": true
@@ -4191,30 +4191,6 @@
    "isPromo": true
   },
   {
-   "id": 6329,
-   "mvno": "이지모바일",
-   "net": "LGU+",
-   "data": "100GB",
-   "dataGb": 100.0,
-   "voiceUnlim": true,
-   "promo": 27610,
-   "months": 12,
-   "after": 46200,
-   "isPromo": true
-  },
-  {
-   "id": 6330,
-   "mvno": "이지모바일",
-   "net": "LGU+",
-   "data": "11GB",
-   "dataGb": 11.0,
-   "voiceUnlim": true,
-   "promo": 22440,
-   "months": 12,
-   "after": 39600,
-   "isPromo": true
-  },
-  {
    "id": 6334,
    "mvno": "이지모바일",
    "net": "KT",
@@ -5583,18 +5559,6 @@
    "isPromo": true
   },
   {
-   "id": 6978,
-   "mvno": "아이즈모바일",
-   "net": "LGU+",
-   "data": "95GB",
-   "dataGb": 95.0,
-   "voiceUnlim": true,
-   "promo": 25600,
-   "months": 24,
-   "after": 56100,
-   "isPromo": true
-  },
-  {
    "id": 6979,
    "mvno": "아이즈모바일",
    "net": "LGU+",
@@ -5604,30 +5568,6 @@
    "promo": 13500,
    "months": 7,
    "after": 53900,
-   "isPromo": true
-  },
-  {
-   "id": 6980,
-   "mvno": "아이즈모바일",
-   "net": "LGU+",
-   "data": "125GB",
-   "dataGb": 125.0,
-   "voiceUnlim": true,
-   "promo": 25900,
-   "months": 24,
-   "after": 59400,
-   "isPromo": true
-  },
-  {
-   "id": 6981,
-   "mvno": "아이즈모바일",
-   "net": "LGU+",
-   "data": "150GB",
-   "dataGb": 150.0,
-   "voiceUnlim": true,
-   "promo": 23900,
-   "months": 24,
-   "after": 63000,
    "isPromo": true
   },
   {
@@ -7671,18 +7611,6 @@
    "isPromo": true
   },
   {
-   "id": 7360,
-   "mvno": "조이텔",
-   "net": "SKT",
-   "data": "5GB",
-   "dataGb": 5.0,
-   "voiceUnlim": true,
-   "promo": 1190,
-   "months": null,
-   "after": null,
-   "isPromo": false
-  },
-  {
    "id": 7364,
    "mvno": "프리티 (SKT, KT망)",
    "net": "SKT",
@@ -8553,7 +8481,7 @@
    "data": "150GB",
    "dataGb": 150.0,
    "voiceUnlim": true,
-   "promo": 14000,
+   "promo": 13200,
    "months": 7,
    "after": 60500,
    "isPromo": true
@@ -8653,6 +8581,30 @@
    "months": 6,
    "after": 22200,
    "isPromo": true
+  },
+  {
+   "id": 7503,
+   "mvno": "찬스모바일",
+   "net": "LGU+",
+   "data": "125GB",
+   "dataGb": 125.0,
+   "voiceUnlim": true,
+   "promo": 22900,
+   "months": 24,
+   "after": 55000,
+   "isPromo": true
+  },
+  {
+   "id": 7505,
+   "mvno": "KCT (티플러스)",
+   "net": "LGU+",
+   "data": "150GB",
+   "dataGb": 150.0,
+   "voiceUnlim": true,
+   "promo": 25900,
+   "months": null,
+   "after": null,
+   "isPromo": false
   }
  ]
 }
