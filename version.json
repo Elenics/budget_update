@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "1.60",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.60/app.apk",
+  "versionCode": 161,
+  "versionName": "1.61",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.61/app.apk",
   "mandatory": false,
-  "notes": "수동 입력이 개선됐어요 — 금액이 문장 중간에 있어도('유료사주 1000 수입') 제대로 인식하고, '수입'이라고 쓰면 수입으로 기록해요. (이전엔 이런 입력의 금액을 못 잡아 느리고 지출로 잘못 잡혔어요)"
+  "notes": "입력·인식 정확도 대공사: 금액이 어디 있어도('유료사주 1000 수입'), 만원·9천원·사천오백원 같은 표기도 정확히 잡아요(테스트 429건 100%). 같은 입금이 은행 푸시·문자·토스로 겹쳐 와도(김*수/김철수, 멘트 달라도) 한 건으로 합쳐요. 토스 '보냈어요' 알림 유실과, 앱 켤 때 첫 확인 카드가 수입인데 지출로 보이던 문제도 고쳤어요."
 }
