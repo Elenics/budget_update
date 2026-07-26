@@ -1,7 +1,7 @@
 {
-  "versionCode": 161,
-  "versionName": "1.61",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.61/app.apk",
+  "versionCode": 162,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.62/app.apk",
   "mandatory": false,
-  "notes": "입력·인식 정확도 대공사: 금액이 어디 있어도('유료사주 1000 수입'), 만원·9천원·사천오백원 같은 표기도 정확히 잡아요(테스트 429건 100%). 같은 입금이 은행 푸시·문자·토스로 겹쳐 와도(김*수/김철수, 멘트 달라도) 한 건으로 합쳐요. 토스 '보냈어요' 알림 유실과, 앱 켤 때 첫 확인 카드가 수입인데 지출로 보이던 문제도 고쳤어요."
+  "notes": "AI 비서가 훨씬 티 나게 똑똑해졌어요 — ①홈에 매일 바뀌는 '오늘의 한 줄'(내 소비 데이터로 만드는 개인 잔소리) ②ANTHROPICCLAUDESUBSANFR 같은 암호 상호를 'Claude AI 구독'으로 해설+별칭·분류 자동 ③'어제 회식 6만 반반'처럼 날짜·더치까지 통째로 이해 ④'커피 끊으면 1년에 얼마 모아?' 물으면 즉답 ⑤구독 자동 감지(다음 결제일·가격 인상 알림). 각 기능 테스트 1000건 이상 100% 통과."
 }
