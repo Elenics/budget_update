@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "1.58",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.58/app.apk",
+  "versionCode": 159,
+  "versionName": "1.59",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.59/app.apk",
   "mandatory": false,
-  "notes": "카카오뱅크 입금 알림('입출금통장')이 수입으로 인식 안 되던 문제를 고쳤어요 — 계좌 이름 '입출금통장' 속의 '출금' 글자를 입금 알림으로 오해하던 거였어요."
+  "notes": "입금(수입) 인식을 근본적으로 고쳤어요 — 계좌 이름이 무엇이든('입출금통장'·'수시입출금' 등) 상관없이, '입금/출금'이 금액에 바로 붙어 있는지로 수입·지출을 정확히 가려요."
 }
