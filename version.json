@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "1.59",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.59/app.apk",
+  "versionCode": 160,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.60/app.apk",
   "mandatory": false,
-  "notes": "입금(수입) 인식을 근본적으로 고쳤어요 — 계좌 이름이 무엇이든('입출금통장'·'수시입출금' 등) 상관없이, '입금/출금'이 금액에 바로 붙어 있는지로 수입·지출을 정확히 가려요."
+  "notes": "수동 입력이 개선됐어요 — 금액이 문장 중간에 있어도('유료사주 1000 수입') 제대로 인식하고, '수입'이라고 쓰면 수입으로 기록해요. (이전엔 이런 입력의 금액을 못 잡아 느리고 지출로 잘못 잡혔어요)"
 }
