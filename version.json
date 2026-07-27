@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "1.63",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.63/app.apk",
+  "versionCode": 164,
+  "versionName": "1.64",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.64/app.apk",
   "mandatory": false,
-  "notes": "해외승인 문자('USD 64.90'처럼 원화가 없는 삼성·신한 해외결제)가 인식조차 안 되던 문제를 고쳤어요 — 이제 잡아서 '해외결제 USD 64.90' 확인 카드로 띄우고, HIGGSFIELDINC 같은 영문 상호도 브랜드로 해설해요. (해외승인 테스트 5,259건 100%)"
+  "notes": "인지 수리 6종: (1)'가맹점명:' 라벨 문자에서 카드주인 이름이 가맹점으로 잡히던 것 (2)지자체세입금이 수입으로 잡히던 것 (3)월급통장 출금이 수입으로 잡히던 것 (4)입금 알림이 무음이던 것 - 이제 '들어온 돈 확인' 팝업이 바로 떠요 (5)'나중에'를 눌러도 카드가 즉시 다시 뜨던 것 - 다음 실행 때 다시 보여드려요 (6)직접 입력하면 기다림 없이 바로 기입 모달이 떠요. 더하기: 홈에서 장부/계정을 탭하면 그 내역만 모아 보여줘요. 광고 승인거부 알림 오탐도 제외. (알림 지능 판정 모델은 다음 업데이트에 얹힙니다)"
 }
