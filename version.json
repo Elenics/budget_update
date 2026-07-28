@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "1.65",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.65/app.apk",
+  "versionCode": 166,
+  "versionName": "1.66",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.66/app.apk",
   "mandatory": false,
-  "notes": "사용성 수리 2종: (1)해외결제(외화) 카드에서 금액을 직접 입력해도 확정 버튼이 안 켜지던 것 - 이제 입력하면 바로 켜져요 (2)구독 목록/표시항목/중복 정리 창에서 뒤로가기를 누르면 앱이 내려가던 것 - 이제 어느 창에서든 뒤로가기는 그 창만 닫아요. (알림 지능 판정 모델은 다음 업데이트에 얹힙니다)"
+  "notes": "긴급 수리: 거래 감지 알림이 안 보이던 문제 - 알림이 몇 초 뒤 스스로 사라지게 되어 있어서, 화면을 안 보고 있으면 아무것도 안 남았어요. 이제 확인하기 전까지 알림창에 남아 있고, 앱을 열어 확인하면 자동으로 정리됩니다."
 }
