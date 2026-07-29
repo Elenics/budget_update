@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "1.70",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.70/app.apk",
+  "versionCode": 171,
+  "versionName": "1.71",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.71/app.apk",
   "mandatory": false,
-  "notes": "계정 알림 정리: 예전에 쌓인 과거 기록까지 '계정 비어있음'으로 세어 숫자가 크게 뜨던 것을 고쳤어요. 이제 이 기능을 쓰기 시작한 뒤 들어온 거래만 알려드리고, 과거 기록은 정리하고 싶을 때만 모달 아래 '과거도 정리하려면 탭하세요'로 보시면 돼요."
+  "notes": "해외 결제 가게 이름 인지 수리: 은행 알림의 국가코드(IRL·USA)가 가게 이름으로 저장되던 문제 → 상호(FACEBK·AMAZON MKTP 등)로 정정. 7월 21일 이후 기록은 자동 소급 교정, 그 이전은 설정>데이터에서 원할 때."
 }
