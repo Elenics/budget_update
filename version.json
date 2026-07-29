@@ -1,7 +1,7 @@
 {
-  "versionCode": 167,
-  "versionName": "1.67",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.67/app.apk",
+  "versionCode": 168,
+  "versionName": "1.68",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.68/app.apk",
   "mandatory": false,
-  "notes": "놓친 거래 되살리기: 예전에 알림이 사라져 못 봤던 거래들이 있다면, 이 업데이트를 설치하는 순간 '확인할 거래' 알림으로 다시 떠요. 탭해서 밀린 거래를 한 번에 확인하세요."
+  "notes": "인지 정확도 개선: 판매·정산 알림(내 상품을 남이 결제한 알림), 예약 확정 안내, 포인트 소멸 안내를 지출로 잘못 잡던 것을 고쳤어요. 은행 입금 문자에서 은행 이름이 아니라 보낸 사람이 기록되도록 개선했어요."
 }
