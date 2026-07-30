@@ -1,7 +1,7 @@
 {
-  "versionCode": 175,
-  "versionName": "1.75",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.75/app.apk",
+  "versionCode": 176,
+  "versionName": "1.76",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.76/app.apk",
   "mandatory": false,
-  "notes": "인지 정확도 수리 3종: ①질의 이해(커피·약값 같은 별칭 표현이 세상 물가 검색으로 새던 라우팅 수리 — 게이트 쿼리해석 100% 달성) ②수입 어휘(보너스 들어온 거 등) ③은행 알림에서 발신 은행명이 가게 이름을 덮던 문제(방향·경로 무관 교정)."
+  "notes": "채용공고·급여조건표 같은 정보 공유 글을 거래로 오인하던 문제 수리 — 캡처 순간 정규식으로 즉시 배제(AI 로드 없음=지연 0). 실제 급여 입금 문자는 그대로 인지합니다."
 }
