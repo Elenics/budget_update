@@ -1,7 +1,7 @@
 {
-  "versionCode": 171,
-  "versionName": "1.71",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.71/app.apk",
+  "versionCode": 172,
+  "versionName": "1.72",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.72/app.apk",
   "mandatory": false,
-  "notes": "해외 결제 가게 이름 인지 수리: 은행 알림의 국가코드(IRL·USA)가 가게 이름으로 저장되던 문제 → 상호(FACEBK·AMAZON MKTP 등)로 정정. 7월 21일 이후 기록은 자동 소급 교정, 그 이전은 설정>데이터에서 원할 때."
+  "notes": "정지·발열·유실 P0 3종: ①자동등재 유실 수리(저장을 디스크와 병합 — 백그라운드 등재가 지워지던 경합) ②발열 절감(모델 부팅 자동로드 중단→필요할 때 켜고 유휴 5분에 끔 + 반복 헛기동 억제) ③정지 원인 계측(OS 종료이유·크래시 기록·메모리 스냅샷) + 알림이 기록 안 된 이유를 홈에 표시"
 }
