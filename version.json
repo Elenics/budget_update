@@ -1,7 +1,7 @@
 {
-  "versionCode": 174,
-  "versionName": "1.74",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.74/app.apk",
+  "versionCode": 175,
+  "versionName": "1.75",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.75/app.apk",
   "mandatory": false,
-  "notes": "모델 받기 배너가 안 사라지던 문제 수리(받거나 로드되면 즉시 내려가고, 나중에(닫기)도 추가)."
+  "notes": "인지 정확도 수리 3종: ①질의 이해(커피·약값 같은 별칭 표현이 세상 물가 검색으로 새던 라우팅 수리 — 게이트 쿼리해석 100% 달성) ②수입 어휘(보너스 들어온 거 등) ③은행 알림에서 발신 은행명이 가게 이름을 덮던 문제(방향·경로 무관 교정)."
 }
