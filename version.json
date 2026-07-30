@@ -1,7 +1,7 @@
 {
-  "versionCode": 177,
-  "versionName": "1.77",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.77/app.apk",
+  "versionCode": 178,
+  "versionName": "1.78",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.78/app.apk",
   "mandatory": false,
-  "notes": "자동 등재가 실제로 '묻지 않게' 수리: 분류를 못 정해도 기타>미분류로 즉시 등재(나중에 탭 1회로 교정·학습), 유입 경로에서 AI 대기 제거(무관 판정은 사후 철회로 이동). 수입·할부는 여전히 확인."
+  "notes": "자동 기록된 알림을 대기 큐에서 제거 — '자동 기록됨' 헤드업 뒤에 앱을 열면 같은 알림이 다시 확인 팝업으로 뜨던 모순 수리."
 }
