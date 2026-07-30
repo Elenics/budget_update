@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "1.72",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.72/app.apk",
+  "versionCode": 173,
+  "versionName": "1.73",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.73/app.apk",
   "mandatory": false,
-  "notes": "정지·발열·유실 P0 3종: ①자동등재 유실 수리(저장을 디스크와 병합 — 백그라운드 등재가 지워지던 경합) ②발열 절감(모델 부팅 자동로드 중단→필요할 때 켜고 유휴 5분에 끔 + 반복 헛기동 억제) ③정지 원인 계측(OS 종료이유·크래시 기록·메모리 스냅샷) + 알림이 기록 안 된 이유를 홈에 표시"
+  "notes": "AI 모델 R13 승격: 알림 거래 판정 100%(직전 93%)·문자 파싱 100%·분류 100%. 업데이트 후 홈 배너를 눌러 새 모델(1.2GB, Wi-Fi 권장)을 받아주세요 — 받기 전에도 기록·통계는 정상 동작합니다."
 }
