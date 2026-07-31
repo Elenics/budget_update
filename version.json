@@ -1,7 +1,7 @@
 {
-  "versionCode": 178,
-  "versionName": "1.78",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.78/app.apk",
+  "versionCode": 179,
+  "versionName": "1.79",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.79/app.apk",
   "mandatory": false,
-  "notes": "자동 기록된 알림을 대기 큐에서 제거 — '자동 기록됨' 헤드업 뒤에 앱을 열면 같은 알림이 다시 확인 팝업으로 뜨던 모순 수리."
+  "notes": "알림이 왔는데 아무 데도 안 남던 문제를 구조적으로 막았어요. ①캡처한 알림 원본을 지우지 않고 보관해요(예전엔 앱을 열면 사라져 되살릴 수도, 원인을 찾을 수도 없었어요) ②AI가 꺼져 있어 대기하던 알림·처리 중 오류로 사라지던 알림이 이제 홈에 보이고 바로 기록할 수 있어요 ③알림 연결이 끊기면 앱이 알아채고 스스로 다시 연결해요(설정에 '마지막 알림 수신' 표시) ④설정 > 데이터에 '7/21 이후 놓친 거래 찾기' 버튼을 넣었어요 — 캡처 기록과 문자함을 훑어 아직 기록 안 된 것만 확인 카드로 올려줘요."
 }
