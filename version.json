@@ -1,7 +1,7 @@
 {
-  "versionCode": 180,
-  "versionName": "1.80",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.80/app.apk",
+  "versionCode": 181,
+  "versionName": "1.81",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.81/app.apk",
   "mandatory": false,
-  "notes": "알림 인식 수리: ①경남BC 등 지방은행 BC카드 발급사 인식(가맹점 오추출 동반 수리) ②앱 꺼진 상태(백그라운드)에서도 자동 기록 모드면 새 가맹점 즉시 기록 — 기억 적중만 되던 비대칭 해소 ③사업 봇 HTML 알림 오인 차단"
+  "notes": "①한 번 '수입'으로 확정한 입금자는 다음부터 자동으로 수입 기록(앱 꺼져 있어도 — 내 계좌 간 이체는 자동 구분) ②사업 봇 HTML 알림이 매번 진동·백그라운드 기동을 유발하던 것 차단(발열·소음 감소)"
 }
