@@ -1,7 +1,7 @@
 {
-  "versionCode": 179,
-  "versionName": "1.79",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.79/app.apk",
+  "versionCode": 180,
+  "versionName": "1.80",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.80/app.apk",
   "mandatory": false,
-  "notes": "알림이 왔는데 아무 데도 안 남던 문제를 구조적으로 막았어요. ①캡처한 알림 원본을 지우지 않고 보관해요(예전엔 앱을 열면 사라져 되살릴 수도, 원인을 찾을 수도 없었어요) ②AI가 꺼져 있어 대기하던 알림·처리 중 오류로 사라지던 알림이 이제 홈에 보이고 바로 기록할 수 있어요 ③알림 연결이 끊기면 앱이 알아채고 스스로 다시 연결해요(설정에 '마지막 알림 수신' 표시) ④설정 > 데이터에 '7/21 이후 놓친 거래 찾기' 버튼을 넣었어요 — 캡처 기록과 문자함을 훑어 아직 기록 안 된 것만 확인 카드로 올려줘요."
+  "notes": "알림 인식 수리: ①경남BC 등 지방은행 BC카드 발급사 인식(가맹점 오추출 동반 수리) ②앱 꺼진 상태(백그라운드)에서도 자동 기록 모드면 새 가맹점 즉시 기록 — 기억 적중만 되던 비대칭 해소 ③사업 봇 HTML 알림 오인 차단"
 }
