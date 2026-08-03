@@ -1,7 +1,7 @@
 {
-  "versionCode": 181,
-  "versionName": "1.81",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.81/app.apk",
+  "versionCode": 182,
+  "versionName": "1.82",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.82/app.apk",
   "mandatory": false,
-  "notes": "①한 번 '수입'으로 확정한 입금자는 다음부터 자동으로 수입 기록(앱 꺼져 있어도 — 내 계좌 간 이체는 자동 구분) ②사업 봇 HTML 알림이 매번 진동·백그라운드 기동을 유발하던 것 차단(발열·소음 감소)"
+  "notes": "2번 결제된 카드값이 실수로 사라지지 않게 고쳤어요 · 계정 안내 문구를 더 자세하게 · 반복되는 입금은 분류를 미리 채워드려요"
 }
