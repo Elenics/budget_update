@@ -1,7 +1,7 @@
 {
-  "versionCode": 182,
-  "versionName": "1.82",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.82/app.apk",
+  "versionCode": 183,
+  "versionName": "1.83",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.83/app.apk",
   "mandatory": false,
-  "notes": "2번 결제된 카드값이 실수로 사라지지 않게 고쳤어요 · 계정 안내 문구를 더 자세하게 · 반복되는 입금은 분류를 미리 채워드려요"
+  "notes": "\\실시간 알림에서 이미 등재된 거래를 '금액.가맹점 못뽑음'으로 잘못 표시하던 버그 수정\""
 }
