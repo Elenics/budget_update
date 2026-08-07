@@ -1,7 +1,7 @@
 {
-  "versionCode": 185,
-  "versionName": "1.85",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.85/app.apk",
+  "versionCode": 186,
+  "versionName": "1.86",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.86/app.apk",
   "mandatory": false,
-  "notes": "이메일 앱 알림은 수신에서 원천 제외 - 문자·앱알림만 캡처"
+  "notes": "PG 이메일 가맹점 금액 추출 정확도 수정 + 기존 오등재 자동 소급 정정"
 }
