@@ -1,7 +1,7 @@
 {
-  "versionCode": 184,
-  "versionName": "1.84",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.84/app.apk",
+  "versionCode": 185,
+  "versionName": "1.85",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.85/app.apk",
   "mandatory": false,
-  "notes": "PG 결제확인 이메일(NHN KCP·KICC·쿠팡) 카드승인 오분류 수정 - 오등재 위험 차단\n"
+  "notes": "이메일 앱 알림은 수신에서 원천 제외 - 문자·앱알림만 캡처"
 }
