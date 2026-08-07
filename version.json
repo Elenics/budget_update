@@ -1,7 +1,7 @@
 {
-  "versionCode": 187,
-  "versionName": "1.87",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.87/app.apk",
+  "versionCode": 188,
+  "versionName": "1.88",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.88/app.apk",
   "mandatory": false,
-  "notes": "채용스팸 취업 키워드 누락 수정 + 기존 오등재 소급 삭제 - 실기기 전수 재현 테스트 중 발견"
+  "notes": "백그라운드 자동등재 저장 경합 수정 - 알림 버스트 시 먼저 등재된 거래 소실 방지"
 }
