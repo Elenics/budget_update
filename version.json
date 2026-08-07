@@ -1,7 +1,7 @@
 {
-  "versionCode": 186,
-  "versionName": "1.86",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.86/app.apk",
+  "versionCode": 187,
+  "versionName": "1.87",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.87/app.apk",
   "mandatory": false,
-  "notes": "PG 이메일 가맹점 금액 추출 정확도 수정 + 기존 오등재 자동 소급 정정"
+  "notes": "채용스팸 취업 키워드 누락 수정 + 기존 오등재 소급 삭제 - 실기기 전수 재현 테스트 중 발견"
 }
