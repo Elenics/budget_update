@@ -1,7 +1,7 @@
 {
-  "versionCode": 188,
-  "versionName": "1.88",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.88/app.apk",
+  "versionCode": 189,
+  "versionName": "1.89",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.89/app.apk",
   "mandatory": false,
-  "notes": "백그라운드 자동등재 저장 경합 수정 - 알림 버스트 시 먼저 등재된 거래 소실 방지"
+  "notes": "이중등록·수입 소분류 미정·설정 탭 멈춤(freeze) 3건 수정"
 }
