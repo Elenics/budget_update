@@ -1,7 +1,7 @@
 {
-  "versionCode": 189,
-  "versionName": "1.89",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.89/app.apk",
+  "versionCode": 190,
+  "versionName": "1.90",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.90/app.apk",
   "mandatory": false,
-  "notes": "이중등록·수입 소분류 미정·설정 탭 멈춤(freeze) 3건 수정"
+  "notes": "입금 중복 자동 병합(푸시+문자 교차 확인)·반복 입금 패턴 자동 기록·광고 알림 AI 필터 상시화·AI 모델 켜짐/꺼짐 안정화"
 }
