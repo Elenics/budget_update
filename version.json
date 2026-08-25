@@ -1,7 +1,7 @@
 {
-  "versionCode": 191,
-  "versionName": "1.91",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.91/app.apk",
+  "versionCode": 192,
+  "versionName": "1.92",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.92/app.apk",
   "mandatory": false,
-  "notes": "다른 가계부 앱으로 옮길 수 있는 내보내기 기능이 생겼어요 (설정 > 데이터 > 다른 가계부 앱으로 내보내기)"
+  "notes": "편한가계부로 내보내기 형식 수정 — CSV로 전환, 이모지 제거"
 }
