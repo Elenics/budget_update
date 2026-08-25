@@ -1,7 +1,7 @@
 {
-  "versionCode": 190,
-  "versionName": "1.90",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.90/app.apk",
+  "versionCode": 191,
+  "versionName": "1.91",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v1.91/app.apk",
   "mandatory": false,
-  "notes": "입금 중복 자동 병합(푸시+문자 교차 확인)·반복 입금 패턴 자동 기록·광고 알림 AI 필터 상시화·AI 모델 켜짐/꺼짐 안정화"
+  "notes": "다른 가계부 앱으로 옮길 수 있는 내보내기 기능이 생겼어요 (설정 > 데이터 > 다른 가계부 앱으로 내보내기)"
 }
