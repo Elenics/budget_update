@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04",
- "count": 545,
+ "updated": "2026-10-11",
+ "count": 529,
  "plans": [
   {
    "id": 5051,
@@ -225,7 +225,7 @@
    "data": "110GB",
    "dataGb": 110.0,
    "voiceUnlim": true,
-   "promo": 11900,
+   "promo": 10900,
    "months": 6,
    "after": 51700,
    "isPromo": true
@@ -261,7 +261,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 20900,
+   "promo": 19800,
    "months": 7,
    "after": 41250,
    "isPromo": true
@@ -885,7 +885,7 @@
    "data": "20GB",
    "dataGb": 20.0,
    "voiceUnlim": false,
-   "promo": 5900,
+   "promo": 10,
    "months": 7,
    "after": 29700,
    "isPromo": true
@@ -1041,7 +1041,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 8500,
+   "promo": 7900,
    "months": 7,
    "after": 48400,
    "isPromo": true
@@ -1113,7 +1113,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 8500,
+   "promo": 7900,
    "months": 7,
    "after": 48400,
    "isPromo": true
@@ -1497,7 +1497,7 @@
    "data": "125GB",
    "dataGb": 125.0,
    "voiceUnlim": true,
-   "promo": 6800,
+   "promo": 8500,
    "months": 7,
    "after": 51700,
    "isPromo": true
@@ -1509,7 +1509,7 @@
    "data": "150GB",
    "dataGb": 150.0,
    "voiceUnlim": true,
-   "promo": 8900,
+   "promo": 9750,
    "months": 7,
    "after": 60500,
    "isPromo": true
@@ -1749,7 +1749,7 @@
    "data": "11GB",
    "dataGb": 11.0,
    "voiceUnlim": true,
-   "promo": 20900,
+   "promo": 19800,
    "months": 7,
    "after": 41250,
    "isPromo": true
@@ -2721,7 +2721,7 @@
    "data": "110GB",
    "dataGb": 110.0,
    "voiceUnlim": true,
-   "promo": 11900,
+   "promo": 10900,
    "months": 6,
    "after": 51700,
    "isPromo": true
@@ -3129,7 +3129,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 21900,
+   "promo": 20900,
    "months": 7,
    "after": 39600,
    "isPromo": true
@@ -3141,7 +3141,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 16900,
+   "promo": 15900,
    "months": 7,
    "after": 39600,
    "isPromo": true
@@ -3153,7 +3153,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": true,
-   "promo": 13900,
+   "promo": 12900,
    "months": 7,
    "after": 31900,
    "isPromo": true
@@ -3165,7 +3165,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": true,
-   "promo": 13900,
+   "promo": 12900,
    "months": 7,
    "after": 30800,
    "isPromo": true
@@ -3177,7 +3177,7 @@
    "data": "10GB",
    "dataGb": 10.0,
    "voiceUnlim": true,
-   "promo": 11900,
+   "promo": 10900,
    "months": 7,
    "after": 27500,
    "isPromo": true
@@ -3189,7 +3189,7 @@
    "data": "7GB",
    "dataGb": 7.0,
    "voiceUnlim": true,
-   "promo": 8900,
+   "promo": 7900,
    "months": 7,
    "after": 30800,
    "isPromo": true
@@ -3201,7 +3201,7 @@
    "data": "7GB",
    "dataGb": 7.0,
    "voiceUnlim": true,
-   "promo": 12900,
+   "promo": 11900,
    "months": 7,
    "after": 27500,
    "isPromo": true
@@ -3369,7 +3369,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 900,
+   "promo": 3300,
    "months": 6,
    "after": 33000,
    "isPromo": true
@@ -4029,7 +4029,7 @@
    "data": "100GB",
    "dataGb": 100.0,
    "voiceUnlim": true,
-   "promo": 9800,
+   "promo": 8600,
    "months": 6,
    "after": 44000,
    "isPromo": true
@@ -4263,18 +4263,6 @@
    "isPromo": true
   },
   {
-   "id": 6750,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "7GB",
-   "dataGb": 7.0,
-   "voiceUnlim": true,
-   "promo": 9900,
-   "months": 7,
-   "after": 27500,
-   "isPromo": true
-  },
-  {
    "id": 6754,
    "mvno": "프리티 (SKT, KT망)",
    "net": "KT",
@@ -4353,7 +4341,7 @@
    "data": "100GB",
    "dataGb": 100.0,
    "voiceUnlim": true,
-   "promo": 9800,
+   "promo": 8600,
    "months": 6,
    "after": 44000,
    "isPromo": true
@@ -4413,9 +4401,21 @@
    "data": "95GB",
    "dataGb": 95.0,
    "voiceUnlim": true,
-   "promo": 6900,
+   "promo": 7900,
    "months": 7,
    "after": 50600,
+   "isPromo": true
+  },
+  {
+   "id": 6846,
+   "mvno": "아시아모바일",
+   "net": "LGU+",
+   "data": "5GB",
+   "dataGb": 5.0,
+   "voiceUnlim": false,
+   "promo": 10,
+   "months": 6,
+   "after": 9900,
    "isPromo": true
   },
   {
@@ -4425,7 +4425,7 @@
    "data": "4.5GB",
    "dataGb": 4.5,
    "voiceUnlim": true,
-   "promo": 1650,
+   "promo": 990,
    "months": 6,
    "after": 18700,
    "isPromo": true
@@ -4581,7 +4581,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 2900,
+   "promo": 5900,
    "months": 6,
    "after": 33000,
    "isPromo": true
@@ -4773,7 +4773,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 100,
+   "promo": 990,
    "months": 6,
    "after": 25300,
    "isPromo": true
@@ -5091,42 +5091,6 @@
    "isPromo": true
   },
   {
-   "id": 7097,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "7GB",
-   "dataGb": 7.0,
-   "voiceUnlim": true,
-   "promo": 9900,
-   "months": 7,
-   "after": 27500,
-   "isPromo": true
-  },
-  {
-   "id": 7100,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "11GB",
-   "dataGb": 11.0,
-   "voiceUnlim": true,
-   "promo": 21780,
-   "months": 7,
-   "after": 44990,
-   "isPromo": true
-  },
-  {
-   "id": 7101,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "11GB",
-   "dataGb": 11.0,
-   "voiceUnlim": true,
-   "promo": 21780,
-   "months": 7,
-   "after": 44990,
-   "isPromo": true
-  },
-  {
    "id": 7102,
    "mvno": "프리티 (SKT, KT망)",
    "net": "KT",
@@ -5134,30 +5098,6 @@
    "dataGb": 100.0,
    "voiceUnlim": true,
    "promo": 22990,
-   "months": 7,
-   "after": 55000,
-   "isPromo": true
-  },
-  {
-   "id": 7103,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "100GB",
-   "dataGb": 100.0,
-   "voiceUnlim": true,
-   "promo": 19800,
-   "months": 7,
-   "after": 55000,
-   "isPromo": true
-  },
-  {
-   "id": 7104,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "100GB",
-   "dataGb": 100.0,
-   "voiceUnlim": true,
-   "promo": 19800,
    "months": 7,
    "after": 55000,
    "isPromo": true
@@ -5173,42 +5113,6 @@
    "months": 7,
    "after": 63800,
    "isPromo": true
-  },
-  {
-   "id": 7106,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "100GB",
-   "dataGb": 100.0,
-   "voiceUnlim": true,
-   "promo": 20900,
-   "months": 7,
-   "after": 59840,
-   "isPromo": true
-  },
-  {
-   "id": 7113,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "20GB",
-   "dataGb": 20.0,
-   "voiceUnlim": false,
-   "promo": 1100,
-   "months": 7,
-   "after": 24200,
-   "isPromo": true
-  },
-  {
-   "id": 7114,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "30GB",
-   "dataGb": 30.0,
-   "voiceUnlim": false,
-   "promo": 13200,
-   "months": null,
-   "after": null,
-   "isPromo": false
   },
   {
    "id": 7141,
@@ -5319,30 +5223,6 @@
    "isPromo": true
   },
   {
-   "id": 7163,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "15GB",
-   "dataGb": 15.0,
-   "voiceUnlim": false,
-   "promo": 10,
-   "months": 7,
-   "after": 20900,
-   "isPromo": true
-  },
-  {
-   "id": 7166,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "20GB",
-   "dataGb": 20.0,
-   "voiceUnlim": false,
-   "promo": 2200,
-   "months": 7,
-   "after": 15400,
-   "isPromo": true
-  },
-  {
    "id": 7168,
    "mvno": "LG헬로모바일",
    "net": "LGU+",
@@ -5373,7 +5253,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 100,
+   "promo": 1900,
    "months": 6,
    "after": 30800,
    "isPromo": true
@@ -5421,7 +5301,7 @@
    "data": "15GB",
    "dataGb": 15.0,
    "voiceUnlim": false,
-   "promo": 10,
+   "promo": 900,
    "months": 6,
    "after": 24200,
    "isPromo": true
@@ -5475,30 +5355,6 @@
    "isPromo": true
   },
   {
-   "id": 7203,
-   "mvno": "프리티 (LGU+망)",
-   "net": "LGU+",
-   "data": "15GB",
-   "dataGb": 15.0,
-   "voiceUnlim": false,
-   "promo": 3200,
-   "months": 7,
-   "after": 17500,
-   "isPromo": true
-  },
-  {
-   "id": 7204,
-   "mvno": "프리티 (LGU+망)",
-   "net": "LGU+",
-   "data": "20GB",
-   "dataGb": 20.0,
-   "voiceUnlim": false,
-   "promo": 5500,
-   "months": 7,
-   "after": 19800,
-   "isPromo": true
-  },
-  {
    "id": 7208,
    "mvno": "프리티 (LGU+망)",
    "net": "LGU+",
@@ -5545,18 +5401,6 @@
    "months": null,
    "after": null,
    "isPromo": false
-  },
-  {
-   "id": 7212,
-   "mvno": "프리티 (LGU+망)",
-   "net": "LGU+",
-   "data": "15GB",
-   "dataGb": 15.0,
-   "voiceUnlim": false,
-   "promo": 110,
-   "months": 6,
-   "after": 36300,
-   "isPromo": true
   },
   {
    "id": 7213,
@@ -5733,7 +5577,7 @@
    "data": "7GB",
    "dataGb": 7.0,
    "voiceUnlim": true,
-   "promo": 8900,
+   "promo": 7900,
    "months": 7,
    "after": 29700,
    "isPromo": true
@@ -6123,30 +5967,6 @@
    "isPromo": true
   },
   {
-   "id": 7402,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "15GB",
-   "dataGb": 15.0,
-   "voiceUnlim": false,
-   "promo": 4400,
-   "months": null,
-   "after": null,
-   "isPromo": false
-  },
-  {
-   "id": 7403,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "20GB",
-   "dataGb": 20.0,
-   "voiceUnlim": false,
-   "promo": 5500,
-   "months": null,
-   "after": null,
-   "isPromo": false
-  },
-  {
    "id": 7404,
    "mvno": "프리티 (SKT, KT망)",
    "net": "KT",
@@ -6157,18 +5977,6 @@
    "months": null,
    "after": null,
    "isPromo": false
-  },
-  {
-   "id": 7405,
-   "mvno": "프리티 (SKT, KT망)",
-   "net": "KT",
-   "data": "10GB",
-   "dataGb": 10.0,
-   "voiceUnlim": false,
-   "promo": 10,
-   "months": 10,
-   "after": 5500,
-   "isPromo": true
   },
   {
    "id": 7410,
@@ -6321,7 +6129,7 @@
    "data": "110GB",
    "dataGb": 110.0,
    "voiceUnlim": true,
-   "promo": 11900,
+   "promo": 10900,
    "months": 6,
    "after": 51700,
    "isPromo": true
