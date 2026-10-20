@@ -1,7 +1,7 @@
 {
-  "versionCode": 200,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.0/app.apk",
+  "versionCode": 201,
+  "versionName": "2.01",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.01/app.apk",
   "mandatory": false,
-  "notes": "v2.0 — 안 열어도 되는 가계부: 결제 알림 즉시 기록(앱 꺼져 있어도)·중복 자동 합침·예정된 돈·살까 말까·편한가계부 가져오기/내보내기·설정 화면 정리"
+  "notes": "v2.01 — 온보딩 수정: 모델 받는 중에도 탭 이동 가능, 하단 안내 문구가 탭바에 가려지던 문제, 홈에 다운로드 진행률 표시"
 }
