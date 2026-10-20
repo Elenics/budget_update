@@ -1,7 +1,7 @@
 {
-  "versionCode": 202,
-  "versionName": "2.02",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.02/app.apk",
+  "versionCode": 203,
+  "versionName": "2.03",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.03/app.apk",
   "mandatory": false,
-  "notes": "v2.02 — 가져오기 범용화(어느 가계부 파일이든 열 자동 매핑, 깨진 이모지 정제), 가져온 내역 정리 화면(가게별 묶음에 분류·장부 일괄 적용), 설정 저장됨 표시·처리 중 버튼 흐림"
+  "notes": "v2.03 — 예산(분류·장부·계정·전체)과 예산 외 지출, 예산 게이지 고정 알림, 팝업 원칙(기본 조용히)·알림 권한 상태·테스트, 가져온 내역 정리 진행 표시, 위젯 화면, 메신저 글은 거래로 안 잡음, 마이크 제거"
 }
