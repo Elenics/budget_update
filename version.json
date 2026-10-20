@@ -1,7 +1,7 @@
 {
-  "versionCode": 206,
-  "versionName": "2.06",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.06/app.apk",
+  "versionCode": 207,
+  "versionName": "2.07",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.07/app.apk",
   "mandatory": false,
-  "notes": "내역 탭 달력(하루·구간·합계)·홈 지출 - 표기 · '입력' 빈 칸 = 수동 기입 · 밝은 테마 · 예산 외 수입 · 고정 알림 지워도 다시 올라옴"
+  "notes": "고정 알림 바닥줄을 실제 회계월 구간(예: 9/21~10/20 · 30/30일째)으로"
 }
