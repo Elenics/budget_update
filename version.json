@@ -1,7 +1,7 @@
 {
-  "versionCode": 201,
-  "versionName": "2.01",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.01/app.apk",
+  "versionCode": 202,
+  "versionName": "2.02",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.02/app.apk",
   "mandatory": false,
-  "notes": "v2.01 — 온보딩 수정: 모델 받는 중에도 탭 이동 가능, 하단 안내 문구가 탭바에 가려지던 문제, 홈에 다운로드 진행률 표시"
+  "notes": "v2.02 — 가져오기 범용화(어느 가계부 파일이든 열 자동 매핑, 깨진 이모지 정제), 가져온 내역 정리 화면(가게별 묶음에 분류·장부 일괄 적용), 설정 저장됨 표시·처리 중 버튼 흐림"
 }
