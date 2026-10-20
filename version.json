@@ -1,7 +1,7 @@
 {
-  "versionCode": 205,
-  "versionName": "2.05",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.05/app.apk",
+  "versionCode": 206,
+  "versionName": "2.06",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.06/app.apk",
   "mandatory": false,
-  "notes": "정리 '정함' 유지·✓ 상시 · 계정 선택 격자 · 홈 날짜 구분 · 고정 알림 어느 배경에서든 보이게+상단 유지 · 홈 위젯 게이지"
+  "notes": "내역 탭 달력(하루·구간·합계)·홈 지출 - 표기 · '입력' 빈 칸 = 수동 기입 · 밝은 테마 · 예산 외 수입 · 고정 알림 지워도 다시 올라옴"
 }
