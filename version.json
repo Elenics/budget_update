@@ -1,7 +1,7 @@
 {
-  "versionCode": 203,
-  "versionName": "2.03",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.03/app.apk",
+  "versionCode": 204,
+  "versionName": "2.04",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.04/app.apk",
   "mandatory": false,
-  "notes": "v2.03 — 예산(분류·장부·계정·전체)과 예산 외 지출, 예산 게이지 고정 알림, 팝업 원칙(기본 조용히)·알림 권한 상태·테스트, 가져온 내역 정리 진행 표시, 위젯 화면, 메신저 글은 거래로 안 잡음, 마이크 제거"
+  "notes": "알림 출처 등록제(등록한 앱·문자 발신자만 읽기, 처음 보는 출처는 한 번 물어봄) · 고정 알림 체크 항목만+색 게이지 · 알림 전부 존댓말 · 예산 입력 콤마+적용 버튼"
 }
