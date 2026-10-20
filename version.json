@@ -1,7 +1,7 @@
 {
-  "versionCode": 204,
-  "versionName": "2.04",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.04/app.apk",
+  "versionCode": 205,
+  "versionName": "2.05",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.05/app.apk",
   "mandatory": false,
-  "notes": "알림 출처 등록제(등록한 앱·문자 발신자만 읽기, 처음 보는 출처는 한 번 물어봄) · 고정 알림 체크 항목만+색 게이지 · 알림 전부 존댓말 · 예산 입력 콤마+적용 버튼"
+  "notes": "정리 '정함' 유지·✓ 상시 · 계정 선택 격자 · 홈 날짜 구분 · 고정 알림 어느 배경에서든 보이게+상단 유지 · 홈 위젯 게이지"
 }
