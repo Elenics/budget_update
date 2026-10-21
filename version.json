@@ -1,7 +1,7 @@
 {
-  "versionCode": 212,
-  "versionName": "2.12",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.12/app.apk",
+  "versionCode": 213,
+  "versionName": "2.13",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.13/app.apk",
   "mandatory": false,
-  "notes": "2.12: 계정·분류를 지울 때 연결된 거래를 눌러서 보고 하나씩 고칠 수 있어요. 리포트에 수입 분류가 같이 보이고, 계정별은 그룹(현금·카드)이 머리로 구분돼요. 예외 항목은 리포트 맨 위 체크 하나로 모든 합계에서 빼거나 넣을 수 있고 따로 볼 수 있어요. 분류 고르기가 계정처럼 네모 칸이 됐고, 설정에서 계정 순서를 위아래로 바꿀 수 있어요"
+  "notes": "2.13: 리포트에서 분류(보험·주거통신 등)나 계정을 누르면 그 거래만 모아 보이고, 거기서 눌러 바로 금액·분류를 고칠 수 있어요. 계정 고르기는 처음부터 네모 칸으로, 가져온 내역 정리의 분류 고르기도 네모 칸으로 맞췄어요"
 }
