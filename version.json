@@ -1,7 +1,7 @@
 {
-  "versionCode": 208,
-  "versionName": "2.08",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.08/app.apk",
+  "versionCode": 209,
+  "versionName": "2.09",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.09/app.apk",
   "mandatory": false,
-  "notes": "2.08: 결제·입금·외화 알림을 묻지 않고 바로 기록(금융앱·금융기관 문자 자동 인식, 광고·안내 알림 자동 거름), 기록되면 소리 없는 헤드업, 외화는 원화로 환산, 결산 알림 반복 수리·끄기 스위치, 고정 알림 퍼센트·금액 열 정렬·잔여 표시"
+  "notes": "2.09: 검수 대기·보류 알림 1회 소급 기록, 해외결제 카드 원화 채움, 캐시백·입금 예정 알림은 기록 안 함, 가져온 파일의 미래 날짜는 예정된 돈으로, 오늘의 한 줄 누르면 내역 모아 보기, 지출 빨강·수입 초록 통일, 잘못 기록된 앱 알림은 거래 상세에서 바로 차단"
 }
