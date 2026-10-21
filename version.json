@@ -1,7 +1,7 @@
 {
-  "versionCode": 210,
-  "versionName": "2.10",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.10/app.apk",
+  "versionCode": 211,
+  "versionName": "2.11",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.11/app.apk",
   "mandatory": false,
-  "notes": "2.10: 수동 기입에 이름 칸, 칩을 고르면 키보드가 내려감, 금액을 적으면 '금액이 안 잡혔어요'가 사라짐, 예정된 돈을 누르면 받은 알림 원문과 들어올 돈/나갈 돈 구분, 홈 장부·계정 세부항목과 내역 달력에 수입도 표기, 지출에 - 부호"
+  "notes": "2.11: 예정된 돈이 남의 결제로 잘못 지워지지 않게 — 들어올 돈은 입금과, 나갈 돈은 출금과만 맞춰 보고, 같은 곳에서 같은 금액일 때만 자동으로 지워요. 금액이 조금 다르거나 어디서 온 건지 애매하면 '이 거래였나요?'로 물어봐요"
 }
