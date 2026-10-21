@@ -1,7 +1,7 @@
 {
-  "versionCode": 207,
-  "versionName": "2.07",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.07/app.apk",
+  "versionCode": 208,
+  "versionName": "2.08",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.08/app.apk",
   "mandatory": false,
-  "notes": "고정 알림 바닥줄을 실제 회계월 구간(예: 9/21~10/20 · 30/30일째)으로"
+  "notes": "2.08: 결제·입금·외화 알림을 묻지 않고 바로 기록(금융앱·금융기관 문자 자동 인식, 광고·안내 알림 자동 거름), 기록되면 소리 없는 헤드업, 외화는 원화로 환산, 결산 알림 반복 수리·끄기 스위치, 고정 알림 퍼센트·금액 열 정렬·잔여 표시"
 }
