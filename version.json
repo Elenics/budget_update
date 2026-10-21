@@ -1,7 +1,7 @@
 {
-  "versionCode": 209,
-  "versionName": "2.09",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.09/app.apk",
+  "versionCode": 210,
+  "versionName": "2.10",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.10/app.apk",
   "mandatory": false,
-  "notes": "2.09: 검수 대기·보류 알림 1회 소급 기록, 해외결제 카드 원화 채움, 캐시백·입금 예정 알림은 기록 안 함, 가져온 파일의 미래 날짜는 예정된 돈으로, 오늘의 한 줄 누르면 내역 모아 보기, 지출 빨강·수입 초록 통일, 잘못 기록된 앱 알림은 거래 상세에서 바로 차단"
+  "notes": "2.10: 수동 기입에 이름 칸, 칩을 고르면 키보드가 내려감, 금액을 적으면 '금액이 안 잡혔어요'가 사라짐, 예정된 돈을 누르면 받은 알림 원문과 들어올 돈/나갈 돈 구분, 홈 장부·계정 세부항목과 내역 달력에 수입도 표기, 지출에 - 부호"
 }
