@@ -1,7 +1,1 @@
-{
-    "versionCode":  216,
-    "versionName":  "2.16",
-    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.16/app.apk",
-    "mandatory":  false,
-    "notes":  "삼성카드 카카오톡 전자상거래 알림 인식 및 가맹점 추출 수정"
-}
+{"apkUrl":"https://github.com/Elenics/budget_update/releases/download/v2.17/app.apk","mandatory":false,"versionCode":217,"versionName":"2.17","notes":"Laya 분류 상태 표시 수정: 추론 중, 추천 불가, 실행 오류 구분 및 기존 LLM 대기 문구 제거"}
