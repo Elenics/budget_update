@@ -1,1 +1,7 @@
-{"apkUrl":"https://github.com/Elenics/budget_update/releases/download/v2.19/app-sideload-release.apk","mandatory":false,"versionCode":219,"versionName":"2.19","notes":"빈 수기 입력은 Laya가 자동 분류하지 않으므로 직접 고르도록 안내합니다. 실제 Laya 분류 대기 건은 결과가 나오면 자동 선택된다고 표시합니다. 기존 앱 위에 업데이트로 설치하세요."}
+{
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.20/app-sideload-release.apk",
+  "mandatory": false,
+  "versionCode": 220,
+  "versionName": "2.20",
+  "notes": "빈 수기 입력에 가게 이름을 쓰면 Laya가 자동 분류합니다. 선택된 칩이 부드럽게 강조되며, 직접 바꾼 선택은 유지됩니다."
+}
