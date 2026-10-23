@@ -1,1 +1,1 @@
-{"apkUrl":"https://github.com/Elenics/budget_update/releases/download/v2.18/app-sideload-release.apk","mandatory":false,"versionCode":218,"versionName":"2.18","notes":"v2.17에서 앱 시작 네이티브 라이브러리가 빠져 앱이 열리지 않던 문제를 수정했습니다. 기존 앱을 삭제하지 말고 업데이트로 설치하세요. 기존 장부 데이터는 유지됩니다."}
+{"apkUrl":"https://github.com/Elenics/budget_update/releases/download/v2.19/app-sideload-release.apk","mandatory":false,"versionCode":219,"versionName":"2.19","notes":"빈 수기 입력은 Laya가 자동 분류하지 않으므로 직접 고르도록 안내합니다. 실제 Laya 분류 대기 건은 결과가 나오면 자동 선택된다고 표시합니다. 기존 앱 위에 업데이트로 설치하세요."}
