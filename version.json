@@ -1,7 +1,7 @@
 {
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.20/app-sideload-release.apk",
-  "mandatory": false,
-  "versionCode": 220,
-  "versionName": "2.20",
-  "notes": "빈 수기 입력에 가게 이름을 쓰면 Laya가 자동 분류합니다. 선택된 칩이 부드럽게 강조되며, 직접 바꾼 선택은 유지됩니다."
+    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.21/app-sideload-release-v221.apk",
+    "mandatory":  false,
+    "versionCode":  221,
+    "versionName":  "2.21",
+    "notes":  "수기 입력 날짜·시간 휠, 개인별 분류 학습 및 학습 상태 표시"
 }
