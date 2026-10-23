@@ -1,7 +1,7 @@
 {
-    "versionCode":  215,
-    "versionName":  "2.15",
-    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.15/app.apk",
+    "versionCode":  216,
+    "versionName":  "2.16",
+    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.16/app.apk",
     "mandatory":  false,
-    "notes":  "Laya ONNX 내장으로 생성형 모델 다운로드와 대화 경로를 교체했습니다. 반복 입금 누락과 그룹 SMS 재게시 중복을 수정하고, 알림에서 장부 선택, 개인별 장부 추천, 수정값 학습, 누락 내역 연결/복구를 추가했습니다. 장부 추천은 사용자 선택으로 확정합니다."
+    "notes":  "삼성카드 카카오톡 전자상거래 알림 인식 및 가맹점 추출 수정"
 }
