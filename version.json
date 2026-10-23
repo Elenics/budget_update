@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.21/app-sideload-release-v221.apk",
+    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.22/app-sideload-release-v222.apk",
     "mandatory":  false,
-    "versionCode":  221,
-    "versionName":  "2.21",
-    "notes":  "수기 입력 날짜·시간 휠, 개인별 분류 학습 및 학습 상태 표시"
+    "versionCode":  222,
+    "versionName":  "2.22",
+    "notes":  "날짜·시간 휠 글자 표시 수정 및 다크·라이트 전반의 글자 대비 개선"
 }
