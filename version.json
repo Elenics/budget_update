@@ -1,7 +1,7 @@
 {
-    "apkUrl":  "https://github.com/Elenics/budget_update/releases/download/v2.22/app-sideload-release-v222.apk",
-    "mandatory":  false,
-    "versionCode":  222,
-    "versionName":  "2.22",
-    "notes":  "날짜·시간 휠 글자 표시 수정 및 다크·라이트 전반의 글자 대비 개선"
+  "versionCode": 223,
+  "versionName": "2.23",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.23/app.apk",
+  "mandatory": false,
+  "notes": "장부: 같은 가게를 같은 장부로 확인한 이력과 추천 적중률이 쌓이면 자동으로 정해 확인이 줄어요 · 계정: 카드별 확정 이력을 학습하고 엉뚱한 계정으로 들어가던 오등록을 고쳤어요"
 }
