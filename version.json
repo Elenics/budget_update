@@ -1,7 +1,7 @@
 {
-  "versionCode": 223,
-  "versionName": "2.23",
-  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.23/app.apk",
+  "versionCode": 224,
+  "versionName": "2.24",
+  "apkUrl": "https://github.com/Elenics/budget_update/releases/download/v2.24/app.apk",
   "mandatory": false,
-  "notes": "장부: 같은 가게를 같은 장부로 확인한 이력과 추천 적중률이 쌓이면 자동으로 정해 확인이 줄어요 · 계정: 카드별 확정 이력을 학습하고 엉뚱한 계정으로 들어가던 오등록을 고쳤어요"
+  "notes": "장부 선택 알림에 가맹점·금액 표시 · 추천 장부가 첫 버튼 · 같은 가게를 확인한 적 있으면 묻지 않고 안내 · 같은 계좌 입금의 분류·계정 자동 채움 · 카뱅_자소서처럼 용도가 붙은 계정명 인식 · 과거 자동 등재 거래의 계정도 학습에 반영 · 설정에 학습 현황 표시"
 }
